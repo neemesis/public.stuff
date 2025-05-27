@@ -1,0 +1,52 @@
+BEGIN:MTBOT - CALENDAR - XKX
+PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
+VERSION:2.0
+BEGIN:UNUM FESTIVAL 2025
+DESCRIPTION:https://gowild.al/en/event/unum-festival-2025
+DTEND:20250605T130000
+DTSTAMP:20250527T201028Z
+DTSTART:20250605T120000
+LOCATION:gowild.al
+ORGANIZER:mailto:gowild.al
+SEQUENCE:0
+SUMMARY:Unum Festival 2025
+UID:https://gowild.al/en/event/unum-festival-2025
+URL:https://gowild.al/en/event/unum-festival-2025
+END:UNUM FESTIVAL 2025
+BEGIN:SUNDANCE 2025 OPENING NIGHT
+DESCRIPTION:https://gowild.al/en/event/sundance-2025-opening-night
+DTEND:20250615T130000
+DTSTAMP:20250527T201028Z
+DTSTART:20250615T120000
+LOCATION:gowild.al
+ORGANIZER:mailto:gowild.al
+SEQUENCE:0
+SUMMARY:Sundance 2025 Opening Night
+UID:https://gowild.al/en/event/sundance-2025-opening-night
+URL:https://gowild.al/en/event/sundance-2025-opening-night
+END:SUNDANCE 2025 OPENING NIGHT
+BEGIN:PRIZREN ROCK &AMP; BLUES FESTIVAL
+DESCRIPTION:https://gowild.al/en/event/rock-and-blues-festival
+DTEND:20250711T130000
+DTSTAMP:20250527T201028Z
+DTSTART:20250711T120000
+LOCATION:gowild.al
+ORGANIZER:mailto:gowild.al
+SEQUENCE:0
+SUMMARY:Prizren Rock &amp\; Blues Festival
+UID:https://gowild.al/en/event/rock-and-blues-festival
+URL:https://gowild.al/en/event/rock-and-blues-festival
+END:PRIZREN ROCK &AMP; BLUES FESTIVAL
+BEGIN:EUPHORIA XIII
+DESCRIPTION:https://gowild.al/en/event/euphoria-xiii
+DTEND:20250913T130000
+DTSTAMP:20250527T201028Z
+DTSTART:20250913T120000
+LOCATION:gowild.al
+ORGANIZER:mailto:gowild.al
+SEQUENCE:0
+SUMMARY:Euphoria XIII
+UID:https://gowild.al/en/event/euphoria-xiii
+URL:https://gowild.al/en/event/euphoria-xiii
+END:EUPHORIA XIII
+END:MTBOT - CALENDAR - XKX
