@@ -2,160 +2,11 @@ BEGIN:VCALENDAR
 PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DESCRIPTION:MTBot - https://cometogether.live/event/2975/ilias-misirlis-su
- ltry-live-rover-bar
-DTEND:20250528T193000Z
-DTSTAMP:20250527T203140Z
-DTSTART:20250528T183000Z
-LOCATION:ComeTogether - Thessaloniki
-ORGANIZER:
-SEQUENCE:0
-SUMMARY:ILIAS MISIRLIS SULTRY live Rover Bar
-UID:CT_2975
-URL:https://cometogether.live/event/2975/ilias-misirlis-sultry-live-rover-
- bar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:MTBot - https://cometogether.live/event/2873/ayyuka-tr-live-in
- -thessaloniki
-DTEND:20250529T183000Z
-DTSTAMP:20250527T203140Z
-DTSTART:20250529T173000Z
-LOCATION:ComeTogether - Thessaloniki
-ORGANIZER:
-SEQUENCE:0
-SUMMARY:AYYUKA TR LIVE IN THESSALONIKI
-UID:CT_2873
-URL:https://cometogether.live/event/2873/ayyuka-tr-live-in-thessaloniki
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:MTBot - https://cometogether.live/event/2943/to-mpalkoni-toy-p
- apazó
-DTEND:20250529T190000Z
-DTSTAMP:20250527T203140Z
-DTSTART:20250529T180000Z
-LOCATION:ComeTogether - Thessaloniki
-ORGANIZER:
-SEQUENCE:0
-SUMMARY:TO MPALKONI TOY PAPAZÓ
-UID:CT_2943
-URL:https://cometogether.live/event/2943/to-mpalkoni-toy-papazó
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:MTBot - https://cometogether.live/event/2991/open-kwmic-s-10-e
- -30-maieuthrio-comedy-club
-DTEND:20250529T190000Z
-DTSTAMP:20250527T203140Z
-DTSTART:20250529T180000Z
-LOCATION:ComeTogether - Thessaloniki
-ORGANIZER:
-SEQUENCE:0
-SUMMARY:Open Kwmic S 10 E 30 Maieuthrio Comedy Club
-UID:CT_2991
-URL:https://cometogether.live/event/2991/open-kwmic-s-10-e-30-maieuthrio-c
- omedy-club
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:MTBot - https://cometogether.live/event/2977/nothing-n-everyth
- ing-nne-tsop-skg-thur-29-05-live-rover-bar
-DTEND:20250529T193000Z
-DTSTAMP:20250527T203140Z
-DTSTART:20250529T183000Z
-LOCATION:ComeTogether - Thessaloniki
-ORGANIZER:
-SEQUENCE:0
-SUMMARY:NOTHING N EVERYTHING NNE TSOP SKG THUR 29 05 Live Rover Bar
-UID:CT_2977
-URL:https://cometogether.live/event/2977/nothing-n-everything-nne-tsop-skg
- -thur-29-05-live-rover-bar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:MTBot - https://cometogether.live/event/2714/urban-beer-festiv
- al-people-hop-together
-DTEND:20250530T140000Z
-DTSTAMP:20250527T203140Z
-DTSTART:20250530T130000Z
-LOCATION:ComeTogether - Thessaloniki
-ORGANIZER:
-SEQUENCE:0
-SUMMARY:Urban Beer Festival People Hop Together
-UID:CT_2714
-URL:https://cometogether.live/event/2714/urban-beer-festival-people-hop-to
- gether
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:MTBot - https://cometogether.live/event/2583/gio-pika
-DTEND:20250530T180000Z
-DTSTAMP:20250527T203140Z
-DTSTART:20250530T170000Z
-LOCATION:ComeTogether - Thessaloniki
-ORGANIZER:
-SEQUENCE:0
-SUMMARY:GIO PIKA
-UID:CT_2583
-URL:https://cometogether.live/event/2583/gio-pika
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:MTBot - https://cometogether.live/event/2946/👹-anime-party-x-
- live-concert-at-8-ball-club-skg-💥-by-animentary-dragon-band-z
-DTEND:20250530T180000Z
-DTSTAMP:20250527T203140Z
-DTSTART:20250530T170000Z
-LOCATION:ComeTogether - Thessaloniki
-ORGANIZER:
-SEQUENCE:0
-SUMMARY:👹 ANIME PARTY X LIVE CONCERT AT 8 BALL CLUB SKG 💥 BY ANIMENTARY 
- DRAGON BAND Z
-UID:CT_2946
-URL:https://cometogether.live/event/2946/👹-anime-party-x-live-concert-at-
- 8-ball-club-skg-💥-by-animentary-dragon-band-z
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:MTBot - https://cometogether.live/event/2888/liptards-x-nothin
- g-thrives-x-jump-salty-eightball
-DTEND:20250530T183000Z
-DTSTAMP:20250527T203140Z
-DTSTART:20250530T173000Z
-LOCATION:ComeTogether - Thessaloniki
-ORGANIZER:
-SEQUENCE:0
-SUMMARY:LIPTARDS X NOTHING THRIVES X JUMP SALTY EIGHTBALL
-UID:CT_2888
-URL:https://cometogether.live/event/2888/liptards-x-nothing-thrives-x-jump
- -salty-eightball
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:MTBot - https://cometogether.live/event/2729/jerome-kaluta-liv
- e-sto-soul
-DTEND:20250530T190000Z
-DTSTAMP:20250527T203140Z
-DTSTART:20250530T180000Z
-LOCATION:ComeTogether - Thessaloniki
-ORGANIZER:
-SEQUENCE:0
-SUMMARY:Jerome Kaluta live sto Soul
-UID:CT_2729
-URL:https://cometogether.live/event/2729/jerome-kaluta-live-sto-soul
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:MTBot - https://cometogether.live/event/2992/the-english-class
- -stand-up-comedy
-DTEND:20250530T193000Z
-DTSTAMP:20250527T203140Z
-DTSTART:20250530T183000Z
-LOCATION:ComeTogether - Thessaloniki
-ORGANIZER:
-SEQUENCE:0
-SUMMARY:The English Class STAND UP COMEDY
-UID:CT_2992
-URL:https://cometogether.live/event/2992/the-english-class-stand-up-comedy
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:MTBot - https://cometogether.live/event/2931/ergasthrio-gia-en
  hlikes-pixel-ixnh
-DTEND:20250531T090000Z
-DTSTAMP:20250527T203140Z
-DTSTART:20250531T080000Z
+DTEND:00010101T130000
+DTSTAMP:20250607T100050Z
+DTSTART:00010101T120000
 LOCATION:ComeTogether - Thessaloniki
 ORGANIZER:
 SEQUENCE:0
@@ -164,185 +15,23 @@ UID:CT_2931
 URL:https://cometogether.live/event/2931/ergasthrio-gia-enhlikes-pixel-ixnh
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:MTBot - https://cometogether.live/event/2747/programma-ksenagh
- sewn-sth-monimh-ekthesh-sylloges-tou-mo-mus-mouseio-sygxronhs-texnhs-kai-
- stis-ektheseis-case-studio-1-dhmhtrhs-fragkakhs-sp-lats-inspire-project-2
- 025-epistrofh
-DTEND:20250531T100000Z
-DTSTAMP:20250527T203140Z
-DTSTART:20250531T090000Z
+DESCRIPTION:MTBot - https://cometogether.live/event/3015/broken-accents-op
+ en-mic
+DTEND:20250607T190000Z
+DTSTAMP:20250607T100050Z
+DTSTART:20250607T180000Z
 LOCATION:ComeTogether - Thessaloniki
 ORGANIZER:
 SEQUENCE:0
-SUMMARY:Programma ksenaghsewn sth monimh ekthesh sylloges tou MO Mus Mouse
- io Sygxronhs Texnhs kai stis ektheseis Case Studio 1 Dhmhtrhs Fragkakhs S
- P Lats Inspire Project 2025 Epistrofh
-UID:CT_2747
-URL:https://cometogether.live/event/2747/programma-ksenaghsewn-sth-monimh-
- ekthesh-sylloges-tou-mo-mus-mouseio-sygxronhs-texnhs-kai-stis-ektheseis-c
- ase-studio-1-dhmhtrhs-fragkakhs-sp-lats-inspire-project-2025-epistrofh
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:MTBot - https://cometogether.live/event/2863/louder-than-silen
- ce-thessaloniki
-DTEND:20250531T173000Z
-DTSTAMP:20250527T203140Z
-DTSTART:20250531T163000Z
-LOCATION:ComeTogether - Thessaloniki
-ORGANIZER:
-SEQUENCE:0
-SUMMARY:LOUDER THAN SILENCE THESSALONIKI
-UID:CT_2863
-URL:https://cometogether.live/event/2863/louder-than-silence-thessaloniki
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:MTBot - https://cometogether.live/event/2851/join-me-in-thessa
- loniki-him-party-special-guest-zoltan-pluto
-DTEND:20250531T180000Z
-DTSTAMP:20250527T203140Z
-DTSTART:20250531T170000Z
-LOCATION:ComeTogether - Thessaloniki
-ORGANIZER:
-SEQUENCE:0
-SUMMARY:Join Me In Thessaloniki HIM party Special Guest Zoltan Pluto
-UID:CT_2851
-URL:https://cometogether.live/event/2851/join-me-in-thessaloniki-him-party
- -special-guest-zoltan-pluto
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:MTBot - https://cometogether.live/event/2173/vlastur-live-band
- -in-dub-at-soul-skg-31-05-2025
-DTEND:20250531T213000Z
-DTSTAMP:20250527T203140Z
-DTSTART:20250531T203000Z
-LOCATION:ComeTogether - Thessaloniki
-ORGANIZER:
-SEQUENCE:0
-SUMMARY:Vlastur Live Band In Dub at Soul Skg 31 05 2025
-UID:CT_2173
-URL:https://cometogether.live/event/2173/vlastur-live-band-in-dub-at-soul-
- skg-31-05-2025
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:MTBot - https://cometogether.live/event/2589/programma-ksenagh
- sewn-gia-thn-ekthesh-texnofetixismos-whip-it-into-shape-sto-mo-mus-peiram
- atiko-kentro-texnwn-apothhkh-b-1-problhta-a΄
-DTEND:20250601T100000Z
-DTSTAMP:20250527T203140Z
-DTSTART:20250601T090000Z
-LOCATION:ComeTogether - Thessaloniki
-ORGANIZER:
-SEQUENCE:0
-SUMMARY:Programma ksenaghsewn gia thn ekthesh Texnofetixismos Whip it into
-  Shape sto MO Mus Peiramatiko Kentro Texnwn Apothhkh B 1 Problhta A΄
-UID:CT_2589
-URL:https://cometogether.live/event/2589/programma-ksenaghsewn-gia-thn-ekt
- hesh-texnofetixismos-whip-it-into-shape-sto-mo-mus-peiramatiko-kentro-tex
- nwn-apothhkh-b-1-problhta-a΄
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:MTBot - https://cometogether.live/event/2978/morphine-social-c
- lub-agoriastonilio-sun-01-06-live-rover-bar
-DTEND:20250601T193000Z
-DTSTAMP:20250527T203140Z
-DTSTART:20250601T183000Z
-LOCATION:ComeTogether - Thessaloniki
-ORGANIZER:
-SEQUENCE:0
-SUMMARY:MORPHINE SOCIAL CLUB agoriastonilio SUN 01 06 Live Rover Bar
-UID:CT_2978
-URL:https://cometogether.live/event/2978/morphine-social-club-agoriastonil
- io-sun-01-06-live-rover-bar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:MTBot - https://cometogether.live/event/2787/afierwma-100-xron
- ia-mikhs-t-heodwrakhs-to-mpouzouki-sto-ergo-tou-mikh-t-hessalonikh
-DTEND:20250603T193000Z
-DTSTAMP:20250527T203140Z
-DTSTART:20250603T183000Z
-LOCATION:ComeTogether - Thessaloniki
-ORGANIZER:
-SEQUENCE:0
-SUMMARY:Afierwma 100 Xronia Mikhs T Heodwrakhs To mpouzouki sto ergo tou M
- ikh T Hessalonikh
-UID:CT_2787
-URL:https://cometogether.live/event/2787/afierwma-100-xronia-mikhs-t-heodw
- rakhs-to-mpouzouki-sto-ergo-tou-mikh-t-hessalonikh
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:MTBot - https://cometogether.live/event/2979/yro-kristiana-w-u
- -tues-03-06-live-rover-bar
-DTEND:20250603T193000Z
-DTSTAMP:20250527T203140Z
-DTSTART:20250603T183000Z
-LOCATION:ComeTogether - Thessaloniki
-ORGANIZER:
-SEQUENCE:0
-SUMMARY:YRO KRISTIANA w u TUES 03 06 Live Rover Bar
-UID:CT_2979
-URL:https://cometogether.live/event/2979/yro-kristiana-w-u-tues-03-06-live
- -rover-bar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:MTBot - https://cometogether.live/event/2906/rebetiko-project-
- special-guests-multivision-live-at-rover-bar
-DTEND:20250604T193000Z
-DTSTAMP:20250527T203140Z
-DTSTART:20250604T183000Z
-LOCATION:ComeTogether - Thessaloniki
-ORGANIZER:
-SEQUENCE:0
-SUMMARY:REBETIKO PROJECT special guests MULTIVISION live at Rover Bar
-UID:CT_2906
-URL:https://cometogether.live/event/2906/rebetiko-project-special-guests-m
- ultivision-live-at-rover-bar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:MTBot - https://cometogether.live/event/2984/psychobreak-live-
- at-rover-bar
-DTEND:20250605T193000Z
-DTSTAMP:20250527T203140Z
-DTSTART:20250605T183000Z
-LOCATION:ComeTogether - Thessaloniki
-ORGANIZER:
-SEQUENCE:0
-SUMMARY:PSYCHOBREAK live at Rover Bar
-UID:CT_2984
-URL:https://cometogether.live/event/2984/psychobreak-live-at-rover-bar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:MTBot - https://cometogether.live/event/2881/negros-toy-moria-
- paroysiash-diskoy-mayrh-ellada-thessalonikh-06-06-2025-soul
-DTEND:20250606T170000Z
-DTSTAMP:20250527T203140Z
-DTSTART:20250606T160000Z
-LOCATION:ComeTogether - Thessaloniki
-ORGANIZER:
-SEQUENCE:0
-SUMMARY:NEGROS TOY MORIA PAROYSIASH DISKOY MAYRH ELLADA THESSALONIKH 06 06
-  2025 SOUL
-UID:CT_2881
-URL:https://cometogether.live/event/2881/negros-toy-moria-paroysiash-disko
- y-mayrh-ellada-thessalonikh-06-06-2025-soul
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:MTBot - https://cometogether.live/event/2994/the-weeknd-party-
- skg
-DTEND:20250606T183000Z
-DTSTAMP:20250527T203140Z
-DTSTART:20250606T173000Z
-LOCATION:ComeTogether - Thessaloniki
-ORGANIZER:
-SEQUENCE:0
-SUMMARY:The Weeknd Party SKG
-UID:CT_2994
-URL:https://cometogether.live/event/2994/the-weeknd-party-skg
+SUMMARY:Broken Accents Open Mic
+UID:CT_3015
+URL:https://cometogether.live/event/3015/broken-accents-open-mic
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:MTBot - https://cometogether.live/event/2960/protzekt-54-jam-p
  erformances-on-live-music
 DTEND:20250608T173000Z
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250608T163000Z
 LOCATION:ComeTogether - Thessaloniki
 ORGANIZER:
@@ -356,7 +45,7 @@ BEGIN:VEVENT
 DESCRIPTION:MTBot - https://cometogether.live/event/2721/white-tower-sunli
  ght-live-at-rover-bar
 DTEND:20250608T193000Z
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250608T183000Z
 LOCATION:ComeTogether - Thessaloniki
 ORGANIZER:
@@ -367,10 +56,38 @@ URL:https://cometogether.live/event/2721/white-tower-sunlight-live-at-rove
  r-bar
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:MTBot - https://cometogether.live/event/3130/blue-goat-tea-son
+ ic-koalas-live-at-rover-bar
+DTEND:20250610T183000Z
+DTSTAMP:20250607T100050Z
+DTSTART:20250610T173000Z
+LOCATION:ComeTogether - Thessaloniki
+ORGANIZER:
+SEQUENCE:0
+SUMMARY:BLUE GOAT TEA SONIC KOALAS live at Rover Bar
+UID:CT_3130
+URL:https://cometogether.live/event/3130/blue-goat-tea-sonic-koalas-live-a
+ t-rover-bar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://cometogether.live/event/3131/de-facto-ilias-mi
+ sirlis-live-at-rover-bar
+DTEND:20250611T193000Z
+DTSTAMP:20250607T100050Z
+DTSTART:20250611T183000Z
+LOCATION:ComeTogether - Thessaloniki
+ORGANIZER:
+SEQUENCE:0
+SUMMARY:DE FACTO Ilias Misirlis LIVE at Rover Bar
+UID:CT_3131
+URL:https://cometogether.live/event/3131/de-facto-ilias-misirlis-live-at-r
+ over-bar
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:MTBot - https://cometogether.live/event/2924/majovoli-live-sto
  -soul
 DTEND:20250612T183000Z
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250612T173000Z
 LOCATION:ComeTogether - Thessaloniki
 ORGANIZER:
@@ -380,10 +97,52 @@ UID:CT_2924
 URL:https://cometogether.live/event/2924/majovoli-live-sto-soul
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:MTBot - https://cometogether.live/event/3035/astronio-bar-quiz
+ -onoma-hotel
+DTEND:20250612T190000Z
+DTSTAMP:20250607T100050Z
+DTSTART:20250612T180000Z
+LOCATION:ComeTogether - Thessaloniki
+ORGANIZER:
+SEQUENCE:0
+SUMMARY:ASTRONIO BAR QUIZ ONOMA HOTEL
+UID:CT_3035
+URL:https://cometogether.live/event/3035/astronio-bar-quiz-onoma-hotel
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://cometogether.live/event/3132/candyflip-plhgma-
+ live-at-rover-bar
+DTEND:20250612T193000Z
+DTSTAMP:20250607T100050Z
+DTSTART:20250612T183000Z
+LOCATION:ComeTogether - Thessaloniki
+ORGANIZER:
+SEQUENCE:0
+SUMMARY:CANDYFLIP PLHGMA live at Rover Bar
+UID:CT_3132
+URL:https://cometogether.live/event/3132/candyflip-plhgma-live-at-rover-bar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://cometogether.live/event/3052/remnant-live-albu
+ m-presentation-w-disoriented-dogs-in-charge-explosive-aggression-8-ball-1
+ 3-06
+DTEND:20250613T180000Z
+DTSTAMP:20250607T100050Z
+DTSTART:20250613T170000Z
+LOCATION:ComeTogether - Thessaloniki
+ORGANIZER:
+SEQUENCE:0
+SUMMARY:Remnant Live Album Presentation w Disoriented Dogs In Charge Explo
+ sive Aggression 8 ball 13 06
+UID:CT_3052
+URL:https://cometogether.live/event/3052/remnant-live-album-presentation-w
+ -disoriented-dogs-in-charge-explosive-aggression-8-ball-13-06
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:MTBot - https://cometogether.live/event/2936/rogerfall-x-postf
  ace-x-kin-live-at-eightball-june-13
 DTEND:20250613T183000Z
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250613T173000Z
 LOCATION:ComeTogether - Thessaloniki
 ORGANIZER:
@@ -394,10 +153,27 @@ URL:https://cometogether.live/event/2936/rogerfall-x-postface-x-kin-live-a
  t-eightball-june-13
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:MTBot - https://cometogether.live/event/2372/programma-ksenagh
+ sewn-gia-thn-ekthesh-peri-anthrwpwn-sto-mo-mus-mouseio-fwtografias-t-hess
+ alonikhs-apothhkh-a-problhta-a-limani
+DTEND:20250614T100000Z
+DTSTAMP:20250607T100050Z
+DTSTART:20250614T090000Z
+LOCATION:ComeTogether - Thessaloniki
+ORGANIZER:
+SEQUENCE:0
+SUMMARY:Programma ksenaghsewn gia thn ekthesh Peri anthrwpwn sto MO Mus Mo
+ useio Fwtografias T Hessalonikhs Apothhkh A Problhta A limani
+UID:CT_2372
+URL:https://cometogether.live/event/2372/programma-ksenaghsewn-gia-thn-ekt
+ hesh-peri-anthrwpwn-sto-mo-mus-mouseio-fwtografias-t-hessalonikhs-apothhk
+ h-a-problhta-a-limani
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:MTBot - https://cometogether.live/event/2939/off-section-eight
  ball-club-me-tous-turbocharger-soulhound-kai-toxic-pub
 DTEND:20250614T173000Z
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250614T163000Z
 LOCATION:ComeTogether - Thessaloniki
 ORGANIZER:
@@ -409,10 +185,41 @@ URL:https://cometogether.live/event/2939/off-section-eightball-club-me-tou
  s-turbocharger-soulhound-kai-toxic-pub
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:MTBot - https://cometogether.live/event/3048/pyr-gynh-kai-come
+ dy-roylh-mpoyranta
+DTEND:20250614T190000Z
+DTSTAMP:20250607T100050Z
+DTSTART:20250614T180000Z
+LOCATION:ComeTogether - Thessaloniki
+ORGANIZER:
+SEQUENCE:0
+SUMMARY:PYR GYNH KAI COMEDY ROYLH MPOYRANTA
+UID:CT_3048
+URL:https://cometogether.live/event/3048/pyr-gynh-kai-comedy-roylh-mpoyran
+ ta
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://cometogether.live/event/2589/programma-ksenagh
+ sewn-gia-thn-ekthesh-texnofetixismos-whip-it-into-shape-sto-mo-mus-peiram
+ atiko-kentro-texnwn-apothhkh-b-1-problhta-a΄
+DTEND:20250615T100000Z
+DTSTAMP:20250607T100050Z
+DTSTART:20250615T090000Z
+LOCATION:ComeTogether - Thessaloniki
+ORGANIZER:
+SEQUENCE:0
+SUMMARY:Programma ksenaghsewn gia thn ekthesh Texnofetixismos Whip it into
+  Shape sto MO Mus Peiramatiko Kentro Texnwn Apothhkh B 1 Problhta A΄
+UID:CT_2589
+URL:https://cometogether.live/event/2589/programma-ksenaghsewn-gia-thn-ekt
+ hesh-texnofetixismos-whip-it-into-shape-sto-mo-mus-peiramatiko-kentro-tex
+ nwn-apothhkh-b-1-problhta-a΄
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:MTBot - https://cometogether.live/event/2989/ergotherapy-x-sou
  nd-of-house-present-marasi
 DTEND:20250615T150000Z
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250615T140000Z
 LOCATION:ComeTogether - Thessaloniki
 ORGANIZER:
@@ -423,10 +230,23 @@ URL:https://cometogether.live/event/2989/ergotherapy-x-sound-of-house-pres
  ent-marasi
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:MTBot - https://cometogether.live/event/3056/feelings-desire-a
+ t-sunset-rooftop
+DTEND:20250615T160000Z
+DTSTAMP:20250607T100050Z
+DTSTART:20250615T150000Z
+LOCATION:ComeTogether - Thessaloniki
+ORGANIZER:
+SEQUENCE:0
+SUMMARY:Feelings Desire at Sunset Rooftop
+UID:CT_3056
+URL:https://cometogether.live/event/3056/feelings-desire-at-sunset-rooftop
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:MTBot - https://cometogether.live/event/2886/saske-live-thessa
  lonikh-15-06-2025-theatro-khpoy
 DTEND:20250615T173000Z
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250615T163000Z
 LOCATION:ComeTogether - Thessaloniki
 ORGANIZER:
@@ -437,10 +257,24 @@ URL:https://cometogether.live/event/2886/saske-live-thessalonikh-15-06-202
  5-theatro-khpoy
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:MTBot - https://cometogether.live/event/3012/boat-experience-p
+ resented-by-blaze-at-black-pearl
+DTEND:20250615T213000Z
+DTSTAMP:20250607T100050Z
+DTSTART:20250615T203000Z
+LOCATION:ComeTogether - Thessaloniki
+ORGANIZER:
+SEQUENCE:0
+SUMMARY:BOAT experience presented by BLAZE at Black Pearl
+UID:CT_3012
+URL:https://cometogether.live/event/3012/boat-experience-presented-by-blaz
+ e-at-black-pearl
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:MTBot - https://cometogether.live/event/2971/artivity-mo-mus-s
  ummer-edition
 DTEND:20250616T080000Z
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250616T070000Z
 LOCATION:ComeTogether - Thessaloniki
 ORGANIZER:
@@ -453,7 +287,7 @@ BEGIN:VEVENT
 DESCRIPTION:MTBot - https://cometogether.live/event/2961/saske-live-thessa
  lonikh-round-2-17-06-2025-theatro-khpoy
 DTEND:20250617T173000Z
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250617T163000Z
 LOCATION:ComeTogether - Thessaloniki
 ORGANIZER:
@@ -464,10 +298,24 @@ URL:https://cometogether.live/event/2961/saske-live-thessalonikh-round-2-1
  7-06-2025-theatro-khpoy
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:MTBot - https://cometogether.live/event/3006/bailemos-x-dynami
+ nd-big-band-soul-roof-stage
+DTEND:20250619T190000Z
+DTSTAMP:20250607T100050Z
+DTSTART:20250619T180000Z
+LOCATION:ComeTogether - Thessaloniki
+ORGANIZER:
+SEQUENCE:0
+SUMMARY:Bailemos x Dynamind Big Band Soul Roof Stage
+UID:CT_3006
+URL:https://cometogether.live/event/3006/bailemos-x-dynamind-big-band-soul
+ -roof-stage
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:MTBot - https://cometogether.live/event/2675/ricta-paroysiash-
  diskoy-city-center-ii-thessalonikh-21-06-2025-soul
 DTEND:20250621T170000Z
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250621T160000Z
 LOCATION:ComeTogether - Thessaloniki
 ORGANIZER:
@@ -481,7 +329,7 @@ BEGIN:VEVENT
 DESCRIPTION:MTBot - https://cometogether.live/event/2816/2-years-alemao-w-
  metaraph-ate-salin-and-more
 DTEND:20250621T210000Z
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250621T200000Z
 LOCATION:ComeTogether - Thessaloniki
 ORGANIZER:
@@ -492,10 +340,24 @@ URL:https://cometogether.live/event/2816/2-years-alemao-w-metaraph-ate-sal
  in-and-more
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:MTBot - https://cometogether.live/event/3050/taylor-swift-nigh
+ t-summer-skg-edition-22-06-25-eightball-club
+DTEND:20250622T183000Z
+DTSTAMP:20250607T100050Z
+DTSTART:20250622T173000Z
+LOCATION:ComeTogether - Thessaloniki
+ORGANIZER:
+SEQUENCE:0
+SUMMARY:TAYLOR SWIFT NIGHT summer skg edition 22 06 25 EIGHTBALL CLUB
+UID:CT_3050
+URL:https://cometogether.live/event/3050/taylor-swift-night-summer-skg-edi
+ tion-22-06-25-eightball-club
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:MTBot - https://cometogether.live/event/2872/g-iw-ta-negka-kal
  okairi-2025
 DTEND:20250623T190000Z
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250623T180000Z
 LOCATION:ComeTogether - Thessaloniki
 ORGANIZER:
@@ -505,10 +367,22 @@ UID:CT_2872
 URL:https://cometogether.live/event/2872/g-iw-ta-negka-kalokairi-2025
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:MTBot - https://cometogether.live/event/3008/traumer-x-dj-deep
+DTEND:20250625T153000Z
+DTSTAMP:20250607T100050Z
+DTSTART:20250625T143000Z
+LOCATION:ComeTogether - Thessaloniki
+ORGANIZER:
+SEQUENCE:0
+SUMMARY:Traumer x DJ DEEP
+UID:CT_3008
+URL:https://cometogether.live/event/3008/traumer-x-dj-deep
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:MTBot - https://cometogether.live/event/2907/soul-fire-live-at
  -rover-bar
 DTEND:20250625T193000Z
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250625T183000Z
 LOCATION:ComeTogether - Thessaloniki
 ORGANIZER:
@@ -518,10 +392,78 @@ UID:CT_2907
 URL:https://cometogether.live/event/2907/soul-fire-live-at-rover-bar
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:MTBot - https://cometogether.live/event/3051/pure-love-night-v
+ ol-1
+DTEND:20250626T173000Z
+DTSTAMP:20250607T100050Z
+DTSTART:20250626T163000Z
+LOCATION:ComeTogether - Thessaloniki
+ORGANIZER:
+SEQUENCE:0
+SUMMARY:PURE LOVE NIGHT vol 1
+UID:CT_3051
+URL:https://cometogether.live/event/3051/pure-love-night-vol-1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://cometogether.live/event/3128/2-cold-reality-sh
+ ow
+DTEND:20250627T180000Z
+DTSTAMP:20250607T100050Z
+DTSTART:20250627T170000Z
+LOCATION:ComeTogether - Thessaloniki
+ORGANIZER:
+SEQUENCE:0
+SUMMARY:2 COLD REALITY SHOW
+UID:CT_3128
+URL:https://cometogether.live/event/3128/2-cold-reality-show
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://cometogether.live/event/2999/solmeister-mazoha
+ -melentini-live-mo-mus-modern-x-street-mode-festival-thessaloniki-27-6
+DTEND:20250627T180000Z
+DTSTAMP:20250607T100050Z
+DTSTART:20250627T170000Z
+LOCATION:ComeTogether - Thessaloniki
+ORGANIZER:
+SEQUENCE:0
+SUMMARY:Solmeister Mazoha Melentini Live MO Mus Modern x Street Mode Festi
+ val Thessaloniki 27 6
+UID:CT_2999
+URL:https://cometogether.live/event/2999/solmeister-mazoha-melentini-live-
+ mo-mus-modern-x-street-mode-festival-thessaloniki-27-6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://cometogether.live/event/3047/kasia-omiki-sky-v
+ enue-open-air
+DTEND:20250702T160000Z
+DTSTAMP:20250607T100050Z
+DTSTART:20250702T150000Z
+LOCATION:ComeTogether - Thessaloniki
+ORGANIZER:
+SEQUENCE:0
+SUMMARY:Kasia Omiki Sky Venue open air
+UID:CT_3047
+URL:https://cometogether.live/event/3047/kasia-omiki-sky-venue-open-air
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://cometogether.live/event/3030/dhmhtrhs-mpakoulh
+ s-live-soul-roof-stage
+DTEND:20250705T190000Z
+DTSTAMP:20250607T100050Z
+DTSTART:20250705T180000Z
+LOCATION:ComeTogether - Thessaloniki
+ORGANIZER:
+SEQUENCE:0
+SUMMARY:Dhmhtrhs Mpakoulhs Live Soul Roof Stage
+UID:CT_3030
+URL:https://cometogether.live/event/3030/dhmhtrhs-mpakoulhs-live-soul-roof
+ -stage
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:MTBot - https://cometogether.live/event/2976/mera-me-ta-xrwmat
  a-2025
 DTEND:20250709T150000Z
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250709T140000Z
 LOCATION:ComeTogether - Thessaloniki
 ORGANIZER:
@@ -534,7 +476,7 @@ BEGIN:VEVENT
 DESCRIPTION:MTBot - https://cometogether.live/event/2588/pan-pan-x-years-o
  f-youth-live-sth-t-hessalonikh
 DTEND:20250709T183000Z
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250709T173000Z
 LOCATION:ComeTogether - Thessaloniki
 ORGANIZER:
@@ -548,7 +490,7 @@ BEGIN:VEVENT
 DESCRIPTION:MTBot - https://cometogether.live/event/2958/monsieur-minimal-
  thessaloniki
 DTEND:20250710T183000Z
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250710T173000Z
 LOCATION:ComeTogether - Thessaloniki
 ORGANIZER:
@@ -561,7 +503,7 @@ BEGIN:VEVENT
 DESCRIPTION:MTBot - https://cometogether.live/event/2351/machine-head-us-w
  -special-guests-fear-factory-us-thessaloniki
 DTEND:20250728T170000Z
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250728T160000Z
 LOCATION:ComeTogether - Thessaloniki
 ORGANIZER:
@@ -572,10 +514,37 @@ URL:https://cometogether.live/event/2351/machine-head-us-w-special-guests-
  fear-factory-us-thessaloniki
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:MTBot - https://cometogether.live/event/3000/chicness-with-nov
+ ah-more
+DTEND:20250831T160000Z
+DTSTAMP:20250607T100050Z
+DTSTART:20250831T150000Z
+LOCATION:ComeTogether - Thessaloniki
+ORGANIZER:
+SEQUENCE:0
+SUMMARY:Chicness with Novah more
+UID:CT_3000
+URL:https://cometogether.live/event/3000/chicness-with-novah-more
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://cometogether.live/event/3018/wang-live-thessal
+ onikh-02-09-2025-theatro-ghs
+DTEND:20250902T173000Z
+DTSTAMP:20250607T100050Z
+DTSTART:20250902T163000Z
+LOCATION:ComeTogether - Thessaloniki
+ORGANIZER:
+SEQUENCE:0
+SUMMARY:WANG LIVE THESSALONIKH 02 09 2025 THEATRO GHS
+UID:CT_3018
+URL:https://cometogether.live/event/3018/wang-live-thessalonikh-02-09-2025
+ -theatro-ghs
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:MTBot - https://cometogether.live/event/2286/high-heels-conven
  tion-greece-2025
 DTEND:20251122T080000Z
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20251122T070000Z
 LOCATION:ComeTogether - Thessaloniki
 ORGANIZER:
@@ -585,10 +554,26 @@ UID:CT_2286
 URL:https://cometogether.live/event/2286/high-heels-convention-greece-2025
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:MTBot - https://cometogether.live/event/3003/crown-of-death-by
+ -the-gallery-thessaloniki-the-crown-swe-abyssus-gr-head-cleaner-gr-the-us
+ urper-gr
+DTEND:20251122T180000Z
+DTSTAMP:20250607T100050Z
+DTSTART:20251122T170000Z
+LOCATION:ComeTogether - Thessaloniki
+ORGANIZER:
+SEQUENCE:0
+SUMMARY:CROWN OF DEATH by The Gallery THESSALONIKI THE CROWN Swe ABYSSUS G
+ r HEAD CLEANER Gr THE USURPER Gr
+UID:CT_3003
+URL:https://cometogether.live/event/3003/crown-of-death-by-the-gallery-the
+ ssaloniki-the-crown-swe-abyssus-gr-head-cleaner-gr-the-usurper-gr
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:MTBot - https://cometogether.live/event/2285/in-10-sive-master
  camp-2026
 DTEND:20260205T170000Z
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20260205T160000Z
 LOCATION:ComeTogether - Thessaloniki
 ORGANIZER:
@@ -601,7 +586,7 @@ BEGIN:VEVENT
 DESCRIPTION:MTBot - https://cometogether.live/event/2950/sensualonica-danc
  e-festival-2026
 DTEND:20260417T130000Z
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20260417T120000Z
 LOCATION:ComeTogether - Thessaloniki
 ORGANIZER:

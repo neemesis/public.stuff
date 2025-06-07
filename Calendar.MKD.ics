@@ -4,7 +4,7 @@ VERSION:2.0
 BEGIN:VEVENT
 DESCRIPTION:MTBot - https://yournextevent.info/event.php?id=49
 DTEND:20240703T130000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20240703T120000
 LOCATION:yournextevent.info
 ORGANIZER:mailto:yournextevent.info
@@ -16,7 +16,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:MTBot - https://yournextevent.info/event.php?id=50
 DTEND:20240814T130000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20240814T120000
 LOCATION:yournextevent.info
 ORGANIZER:mailto:yournextevent.info
@@ -28,7 +28,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:MTBot - https://yournextevent.info/event.php?id=67
 DTEND:20241027T130000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20241027T120000
 LOCATION:yournextevent.info
 ORGANIZER:mailto:yournextevent.info
@@ -40,7 +40,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:MTBot - https://yournextevent.info/event.php?id=106
 DTEND:20241209T130000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20241209T120000
 LOCATION:yournextevent.info
 ORGANIZER:mailto:yournextevent.info
@@ -52,7 +52,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:MTBot - https://yournextevent.info/event.php?id=102
 DTEND:20241216T130000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20241216T120000
 LOCATION:yournextevent.info
 ORGANIZER:mailto:yournextevent.info
@@ -64,7 +64,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:MTBot - https://yournextevent.info/event.php?id=93
 DTEND:20241221T130000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20241221T120000
 LOCATION:yournextevent.info
 ORGANIZER:mailto:yournextevent.info
@@ -76,7 +76,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:MTBot - https://yournextevent.info/event.php?id=85
 DTEND:20241221T130000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20241221T120000
 LOCATION:yournextevent.info
 ORGANIZER:mailto:yournextevent.info
@@ -88,7 +88,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:MTBot - https://yournextevent.info/event.php?id=107
 DTEND:20250227T130000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250227T120000
 LOCATION:yournextevent.info
 ORGANIZER:mailto:yournextevent.info
@@ -100,7 +100,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:MTBot - https://yournextevent.info/event.php?id=128
 DTEND:20250322T130000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250322T120000
 LOCATION:yournextevent.info
 ORGANIZER:mailto:yournextevent.info
@@ -112,7 +112,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:MTBot - https://ticketx.mk/events/natprosecen-malta
 DTEND:20250401T210000Z
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250401T200000Z
 LOCATION:TicketX.mk
 ORGANIZER:mailto:TicketX.mk
@@ -124,7 +124,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:MTBot - https://yournextevent.info/event.php?id=83
 DTEND:20250427T130000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250427T120000
 LOCATION:yournextevent.info
 ORGANIZER:mailto:yournextevent.info
@@ -136,7 +136,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:MTBot - https://yournextevent.info/event.php?id=146
 DTEND:20250520T130000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250520T120000
 LOCATION:yournextevent.info
 ORGANIZER:mailto:yournextevent.info
@@ -148,7 +148,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:MTBot - https://yournextevent.info/event.php?id=138
 DTEND:20250520T130000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250520T120000
 LOCATION:yournextevent.info
 ORGANIZER:mailto:yournextevent.info
@@ -160,7 +160,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:MTBot - https://yournextevent.info/event.php?id=124
 DTEND:20250521T130000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250521T120000
 LOCATION:yournextevent.info
 ORGANIZER:mailto:yournextevent.info
@@ -170,39 +170,9 @@ UID:https://yournextevent.info/event.php?id=124
 URL:https://yournextevent.info/event.php?id=124
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:MTBot - https://mktickets.mk/event/%d1%82%d1%83%d1%80%d0%b0%d0
- %bd%d0%b4%d0%be%d1%82-%d1%9f%d0%b0%d0%ba%d0%be%d0%bc%d0%be-%d0%bf%d1%83%d
- 1%87%d0%b8%d0%bd%d0%b8-2/
-DTEND:20250527T130000
-DTSTAMP:20250527T203140Z
-DTSTART:20250527T120000
-LOCATION:MkTickets.mk
-ORGANIZER:mailto:MkTickets.mk
-SEQUENCE:0
-SUMMARY:„ТУРАНДОТ“ – ЏАКОМО ПУЧИНИ
-UID:https://mktickets.mk/event/%d1%82%d1%83%d1%80%d0%b0%d0%bd%d0%b4%d0%be%
- d1%82-%d1%9f%d0%b0%d0%ba%d0%be%d0%bc%d0%be-%d0%bf%d1%83%d1%87%d0%b8%d0%bd
- %d0%b8-2/
-URL:https://mktickets.mk/event/%d1%82%d1%83%d1%80%d0%b0%d0%bd%d0%b4%d0%be%
- d1%82-%d1%9f%d0%b0%d0%ba%d0%be%d0%bc%d0%be-%d0%bf%d1%83%d1%87%d0%b8%d0%bd
- %d0%b8-2/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:MTBot - https://mnt.mk/online/index.php?id=493
-DTEND:20250528T210000
-DTSTAMP:20250527T203140Z
-DTSTART:20250528T200000
-LOCATION:MNT
-ORGANIZER:mailto:MNT
-SEQUENCE:0
-SUMMARY:Ничија земја
-UID:MNT_493
-URL:https://mnt.mk/online/index.php?id=493
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:MTBot - https://ticketx.mk/events/georgi-matura-2
 DTEND:20250529T130005Z
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250529T120005Z
 LOCATION:TicketX.mk
 ORGANIZER:mailto:TicketX.mk
@@ -212,32 +182,9 @@ UID:https://ticketx.mk/events/georgi-matura-2
 URL:https://ticketx.mk/events/georgi-matura-2
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:MTBot - https://mnt.mk/online/index.php?id=582
-DTEND:20250529T210000
-DTSTAMP:20250527T203140Z
-DTSTART:20250529T200000
-LOCATION:MNT
-ORGANIZER:mailto:MNT
-SEQUENCE:0
-SUMMARY:12
-UID:MNT_582_dcf81ae4-1eba-4319-9dc7-fe9e4810409c
-URL:https://mnt.mk/online/index.php?id=582
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:MTBot -
-DTEND:20250529T210000
-DTSTAMP:20250527T203140Z
-DTSTART:20250529T200000
-LOCATION:TeatarKomedija
-ORGANIZER:mailto:TeatarKomedija
-SEQUENCE:0
-SUMMARY:ДА ЖИВЕЕ ДОЛНА ДУПКА
-UID:TeatarKomedija_401
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:MTBot - https://filharmonijaonline.mk/index.php?id=713
 DTEND:20250529T210000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250529T200000
 LOCATION:Filharmonija
 ORGANIZER:mailto:Filharmonija
@@ -249,7 +196,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:MTBot - https://ticketx.mk/events/jbt-vaucer
 DTEND:20250529T210000Z
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250529T200000Z
 LOCATION:TicketX.mk
 ORGANIZER:mailto:TicketX.mk
@@ -259,381 +206,10 @@ UID:https://ticketx.mk/events/jbt-vaucer
 URL:https://ticketx.mk/events/jbt-vaucer
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:MTBot - https://www.karti.com.mk/gjurologija-special-19-03.nspx
-DTEND:20250530T130000
-DTSTAMP:20250527T203140Z
-DTSTART:20250530T120000
-LOCATION:Karti.com.mk
-ORGANIZER:mailto:Karti.com.mk
-SEQUENCE:0
-SUMMARY:ЃУРОЛОГИЈА SPECIAL 19.03
-UID:https://www.karti.com.mk/gjurologija-special-19-03.nspx
-URL:https://www.karti.com.mk/gjurologija-special-19-03.nspx
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:MTBot - https://www.karti.com.mk/najubavi-neshta.nspx
-DTEND:20250530T130000
-DTSTAMP:20250527T203140Z
-DTSTART:20250530T120000
-LOCATION:Karti.com.mk
-ORGANIZER:mailto:Karti.com.mk
-SEQUENCE:0
-SUMMARY:СИТЕ НАЈУБАВИ НЕШТА
-UID:https://www.karti.com.mk/najubavi-neshta.nspx
-URL:https://www.karti.com.mk/najubavi-neshta.nspx
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:MTBot - https://mktickets.mk/event/del-arno-band/
-DTEND:20250530T130000
-DTSTAMP:20250527T203140Z
-DTSTART:20250530T120000
-LOCATION:MkTickets.mk
-ORGANIZER:mailto:MkTickets.mk
-SEQUENCE:0
-SUMMARY:DEL ARNO BAND
-UID:https://mktickets.mk/event/del-arno-band/
-URL:https://mktickets.mk/event/del-arno-band/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:MTBot - https://mktickets.mk/event/snn300525/
-DTEND:20250530T130000
-DTSTAMP:20250527T203140Z
-DTSTART:20250530T120000
-LOCATION:MkTickets.mk
-ORGANIZER:mailto:MkTickets.mk
-SEQUENCE:0
-SUMMARY:СИТЕ НАЈУБАВИ НЕШТА 30.05.2025
-UID:https://mktickets.mk/event/snn300525/
-URL:https://mktickets.mk/event/snn300525/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:MTBot - https://mnt.mk/online/index.php?id=582
-DTEND:20250530T210000
-DTSTAMP:20250527T203140Z
-DTSTART:20250530T200000
-LOCATION:MNT
-ORGANIZER:mailto:MNT
-SEQUENCE:0
-SUMMARY:12
-UID:MNT_582_34219104-fd30-4710-b91b-dbd9815f33ed
-URL:https://mnt.mk/online/index.php?id=582
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:MTBot - https://bileti.drugastrana.mk/index.php?id=544
-DTEND:20250530T220000
-DTSTAMP:20250527T203140Z
-DTSTART:20250530T210000
-LOCATION:DrugaStrana
-ORGANIZER:mailto:DrugaStrana
-SEQUENCE:0
-SUMMARY:К4
-UID:DrugaStrana_544
-URL:https://bileti.drugastrana.mk/index.php?id=544
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:MTBot - https://www.karti.com.mk/gjurologija-specijal.nspx
-DTEND:20250531T130000
-DTSTAMP:20250527T203140Z
-DTSTART:20250531T120000
-LOCATION:Karti.com.mk
-ORGANIZER:mailto:Karti.com.mk
-SEQUENCE:0
-SUMMARY:ЃУРОЛОГИЈА СПЕЦИЈАЛ
-UID:https://www.karti.com.mk/gjurologija-specijal.nspx
-URL:https://www.karti.com.mk/gjurologija-specijal.nspx
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:MTBot - https://www.karti.com.mk/altin-gun.nspx
-DTEND:20250531T130000
-DTSTAMP:20250527T203140Z
-DTSTART:20250531T120000
-LOCATION:Karti.com.mk
-ORGANIZER:mailto:Karti.com.mk
-SEQUENCE:0
-SUMMARY:Altin Gun
-UID:https://www.karti.com.mk/altin-gun.nspx
-URL:https://www.karti.com.mk/altin-gun.nspx
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:MTBot - https://mktickets.mk/event/%d0%b0%d0%b8%d0%b4%d0%b0-%d
- 1%9f%d1%83%d0%b7%d0%b5%d0%bf%d0%b5-%d0%b2%d0%b5%d1%80%d0%b4%d0%b8-2/
-DTEND:20250531T130000
-DTSTAMP:20250527T203140Z
-DTSTART:20250531T120000
-LOCATION:MkTickets.mk
-ORGANIZER:mailto:MkTickets.mk
-SEQUENCE:0
-SUMMARY:„АИДА“ – ЏУЗЕПЕ ВЕРДИ
-UID:https://mktickets.mk/event/%d0%b0%d0%b8%d0%b4%d0%b0-%d1%9f%d1%83%d0%b7
- %d0%b5%d0%bf%d0%b5-%d0%b2%d0%b5%d1%80%d0%b4%d0%b8-2/
-URL:https://mktickets.mk/event/%d0%b0%d0%b8%d0%b4%d0%b0-%d1%9f%d1%83%d0%b7
- %d0%b5%d0%bf%d0%b5-%d0%b2%d0%b5%d1%80%d0%b4%d0%b8-2/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:MTBot - https://mktickets.mk/event/altin-gun/
-DTEND:20250531T130000
-DTSTAMP:20250527T203140Z
-DTSTART:20250531T120000
-LOCATION:MkTickets.mk
-ORGANIZER:mailto:MkTickets.mk
-SEQUENCE:0
-SUMMARY:Altın Gün
-UID:https://mktickets.mk/event/altin-gun/
-URL:https://mktickets.mk/event/altin-gun/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:MTBot -
-DTEND:20250531T210000
-DTSTAMP:20250527T203140Z
-DTSTART:20250531T200000
-LOCATION:TeatarKomedija
-ORGANIZER:mailto:TeatarKomedija
-SEQUENCE:0
-SUMMARY:ВИСТИНАТА 2
-UID:TeatarKomedija_403_39288a1e-460b-41d3-a5cc-b2d5ae8b7819
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:MTBot - https://bileti.drugastrana.mk/index.php?id=533
-DTEND:20250531T210000
-DTSTAMP:20250527T203140Z
-DTSTART:20250531T200000
-LOCATION:DrugaStrana
-ORGANIZER:mailto:DrugaStrana
-SEQUENCE:0
-SUMMARY:СТЕНД АП ФЕСТИВАЛ - ЧЕТВРТАК У 9 (31.05)
-UID:DrugaStrana_533
-URL:https://bileti.drugastrana.mk/index.php?id=533
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:MTBot - https://www.kupikarta.com/tickets.nspx?eventid=5614
-DTEND:20250531T220000
-DTSTAMP:20250527T203140Z
-DTSTART:20250531T210000
-LOCATION:KupiKarta.com
-ORGANIZER:mailto:KupiKarta.com
-SEQUENCE:0
-SUMMARY:BIJELO DUGME
-UID:https://www.kupikarta.com/tickets.nspx?eventid=5614
-URL:https://www.kupikarta.com/tickets.nspx?eventid=5614
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:MTBot - https://mnt.mk/online/index.php?id=
-DTEND:20250601T200000
-DTSTAMP:20250527T203140Z
-DTSTART:20250601T190000
-LOCATION:MNT
-ORGANIZER:mailto:MNT
-SEQUENCE:0
-SUMMARY:НАРОДЕН ПРАТЕНИК
-UID:MNT_/_6f1e67b7-24c9-464e-a538-88bce56ccf9e
-URL:https://mnt.mk/online/index.php?id=
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:MTBot - https://www.karti.com.mk/zdravko-colikj-02-06-2025.nspx
-DTEND:20250602T130000
-DTSTAMP:20250527T203140Z
-DTSTART:20250602T120000
-LOCATION:Karti.com.mk
-ORGANIZER:mailto:Karti.com.mk
-SEQUENCE:0
-SUMMARY:Здравко Чолиќ 02.06.25
-UID:https://www.karti.com.mk/zdravko-colikj-02-06-2025.nspx
-URL:https://www.karti.com.mk/zdravko-colikj-02-06-2025.nspx
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:MTBot - https://mktickets.mk/event/zcso/
-DTEND:20250602T130000
-DTSTAMP:20250527T203140Z
-DTSTART:20250602T120000
-LOCATION:MkTickets.mk
-ORGANIZER:mailto:MkTickets.mk
-SEQUENCE:0
-SUMMARY:ЗДРАВКО ЧОЛИЌ СО СИМФОНИСКИ ОРКЕСТАР
-UID:https://mktickets.mk/event/zcso/
-URL:https://mktickets.mk/event/zcso/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:MTBot - https://bileti.drugastrana.mk/index.php?id=549
-DTEND:20250602T200000
-DTSTAMP:20250527T203140Z
-DTSTART:20250602T190000
-LOCATION:DrugaStrana
-ORGANIZER:mailto:DrugaStrana
-SEQUENCE:0
-SUMMARY:ЛЕФТИ И РАЈТИ ГО СПАСУВААТ ЏЕМПЕРЧЕТО ВОЛИ
-UID:DrugaStrana_549
-URL:https://bileti.drugastrana.mk/index.php?id=549
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:MTBot -
-DTEND:20250602T210000
-DTSTAMP:20250527T203140Z
-DTSTART:20250602T200000
-LOCATION:TeatarKomedija
-ORGANIZER:mailto:TeatarKomedija
-SEQUENCE:0
-SUMMARY:ПАР РАСПАР
-UID:TeatarKomedija_390
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:MTBot - https://mnt.mk/online/index.php?id=
-DTEND:20250602T230000
-DTSTAMP:20250527T203140Z
-DTSTART:20250602T220000
-LOCATION:MNT
-ORGANIZER:mailto:MNT
-SEQUENCE:0
-SUMMARY:НАРОДЕН ПРАТЕНИК
-UID:MNT_/_088e126b-9d02-4d95-ba5f-01890fc4f973
-URL:https://mnt.mk/online/index.php?id=
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:MTBot - https://www.karti.com.mk/zdravko-colikj-03-06-25.nspx
-DTEND:20250603T130000
-DTSTAMP:20250527T203140Z
-DTSTART:20250603T120000
-LOCATION:Karti.com.mk
-ORGANIZER:mailto:Karti.com.mk
-SEQUENCE:0
-SUMMARY:Здравко Чолиќ 03.06.25
-UID:https://www.karti.com.mk/zdravko-colikj-03-06-25.nspx
-URL:https://www.karti.com.mk/zdravko-colikj-03-06-25.nspx
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:MTBot - https://www.karti.com.mk/lado-plesni-koncert.nspx
-DTEND:20250603T130000
-DTSTAMP:20250527T203140Z
-DTSTART:20250603T120000
-LOCATION:Karti.com.mk
-ORGANIZER:mailto:Karti.com.mk
-SEQUENCE:0
-SUMMARY:Ансамбл за народни игри и песни на Хрватска „Ладо“ (3.6.2025)
-UID:https://www.karti.com.mk/lado-plesni-koncert.nspx
-URL:https://www.karti.com.mk/lado-plesni-koncert.nspx
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:MTBot - https://mktickets.mk/event/zc2/
-DTEND:20250603T130000
-DTSTAMP:20250527T203140Z
-DTSTART:20250603T120000
-LOCATION:MkTickets.mk
-ORGANIZER:mailto:MkTickets.mk
-SEQUENCE:0
-SUMMARY:ЗДРАВКО ЧОЛИЌ СО СИМФОНИСКИ ОРКЕСТАР 03.06.2025
-UID:https://mktickets.mk/event/zc2/
-URL:https://mktickets.mk/event/zc2/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:MTBot - https://mnt.mk/online/index.php?id=
-DTEND:20250603T210000
-DTSTAMP:20250527T203140Z
-DTSTART:20250603T200000
-LOCATION:MNT
-ORGANIZER:mailto:MNT
-SEQUENCE:0
-SUMMARY:Кататонија
-UID:MNT_/_d96b7c07-1e03-4c28-862b-c9aab61895eb
-URL:https://mnt.mk/online/index.php?id=
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:MTBot -
-DTEND:20250603T210000
-DTSTAMP:20250527T203140Z
-DTSTART:20250603T200000
-LOCATION:TeatarKomedija
-ORGANIZER:mailto:TeatarKomedija
-SEQUENCE:0
-SUMMARY:АЛО! АЛО!
-UID:TeatarKomedija_385
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:MTBot - https://www.karti.com.mk/zdravko-colikj-04-06-25.nspx
-DTEND:20250604T130000
-DTSTAMP:20250527T203140Z
-DTSTART:20250604T120000
-LOCATION:Karti.com.mk
-ORGANIZER:mailto:Karti.com.mk
-SEQUENCE:0
-SUMMARY:Здравко Чолиќ 04.06.25
-UID:https://www.karti.com.mk/zdravko-colikj-04-06-25.nspx
-URL:https://www.karti.com.mk/zdravko-colikj-04-06-25.nspx
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:MTBot - https://mktickets.mk/event/zc3/
-DTEND:20250604T130000
-DTSTAMP:20250527T203140Z
-DTSTART:20250604T120000
-LOCATION:MkTickets.mk
-ORGANIZER:mailto:MkTickets.mk
-SEQUENCE:0
-SUMMARY:ЗДРАВКО ЧОЛИЌ СО СИМФОНИСКИ ОРКЕСТАР 04.06.2025
-UID:https://mktickets.mk/event/zc3/
-URL:https://mktickets.mk/event/zc3/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:MTBot - https://bileti.drugastrana.mk/index.php?id=538
-DTEND:20250604T190000
-DTSTAMP:20250527T203140Z
-DTSTART:20250604T180000
-LOCATION:DrugaStrana
-ORGANIZER:mailto:DrugaStrana
-SEQUENCE:0
-SUMMARY:ЕФТ И ВАШИОТ ОДНОС СО ХРАНАТА
-UID:DrugaStrana_538
-URL:https://bileti.drugastrana.mk/index.php?id=538
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:MTBot - https://bileti.mkc.mk/index.php?id=1457
-DTEND:20250604T200000
-DTSTAMP:20250527T203140Z
-DTSTART:20250604T190000
-LOCATION:MKC
-ORGANIZER:mailto:MKC
-SEQUENCE:0
-SUMMARY:ФЕСТИВАЛ НА ДЕТСКИ МЈУЗИКЛИ „АЛАДИН“
-UID:MKC_1457
-URL:https://bileti.mkc.mk/index.php?id=1457
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:MTBot - https://mnt.mk/online/index.php?id=
-DTEND:20250604T203000
-DTSTAMP:20250527T203140Z
-DTSTART:20250604T193000
-LOCATION:MNT
-ORGANIZER:mailto:MNT
-SEQUENCE:0
-SUMMARY:НАРОДЕН ПРАТЕНИК
-UID:MNT_/_78f4049d-b702-4dac-92c6-2457e4617c42
-URL:https://mnt.mk/online/index.php?id=
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:MTBot -
-DTEND:20250604T210000
-DTSTAMP:20250527T203140Z
-DTSTART:20250604T200000
-LOCATION:TeatarKomedija
-ORGANIZER:mailto:TeatarKomedija
-SEQUENCE:0
-SUMMARY:ВИСТИНАТА 2
-UID:TeatarKomedija_405
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:MTBot - https://bileti.drugastrana.mk/index.php?id=534
-DTEND:20250604T210000
-DTSTAMP:20250527T203140Z
-DTSTART:20250604T200000
-LOCATION:DrugaStrana
-ORGANIZER:mailto:DrugaStrana
-SEQUENCE:0
-SUMMARY:СТЕНД АП ФЕСТИВАЛ - ЧЕТВРТАК У 9 (04.06)
-UID:DrugaStrana_534
-URL:https://bileti.drugastrana.mk/index.php?id=534
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:MTBot - https://www.karti.com.mk/dragan-i-ratko-dautovski-canz
  oniere-grecanico-salentino-offest-2025.nspx
 DTEND:20250605T130000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250605T120000
 LOCATION:Karti.com.mk
 ORGANIZER:mailto:Karti.com.mk
@@ -649,7 +225,7 @@ BEGIN:VEVENT
 DESCRIPTION:MTBot - https://www.karti.com.mk/festivalski-komplet-offest-20
  25.nspx
 DTEND:20250605T130000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250605T120000
 LOCATION:Karti.com.mk
 ORGANIZER:mailto:Karti.com.mk
@@ -659,22 +235,9 @@ UID:https://www.karti.com.mk/festivalski-komplet-offest-2025.nspx
 URL:https://www.karti.com.mk/festivalski-komplet-offest-2025.nspx
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:MTBot - https://mktickets.mk/event/dr-cgs/
-DTEND:20250605T130000
-DTSTAMP:20250527T203140Z
-DTSTART:20250605T120000
-LOCATION:MkTickets.mk
-ORGANIZER:mailto:MkTickets.mk
-SEQUENCE:0
-SUMMARY:DRAGAN I RATKO DAUTOVSKI / CANZONIERE GRECANICO SALENTINO @OFFest 
- 2025
-UID:https://mktickets.mk/event/dr-cgs/
-URL:https://mktickets.mk/event/dr-cgs/
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:MTBot - https://mktickets.mk/event/fs2025/
 DTEND:20250605T130000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250605T120000
 LOCATION:MkTickets.mk
 ORGANIZER:mailto:MkTickets.mk
@@ -686,7 +249,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:MTBot - https://bileti.mkc.mk/index.php?id=1458
 DTEND:20250605T200000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250605T190000
 LOCATION:MKC
 ORGANIZER:mailto:MKC
@@ -699,7 +262,7 @@ BEGIN:VEVENT
 DESCRIPTION:MTBot - https://www.karti.com.mk/kimmo-pohjonen-maria-jo-o-off
  est-2025.nspx
 DTEND:20250606T130000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250606T120000
 LOCATION:Karti.com.mk
 ORGANIZER:mailto:Karti.com.mk
@@ -709,45 +272,10 @@ UID:https://www.karti.com.mk/kimmo-pohjonen-maria-jo-o-offest-2025.nspx
 URL:https://www.karti.com.mk/kimmo-pohjonen-maria-jo-o-offest-2025.nspx
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:MTBot - https://mktickets.mk/event/kpmj/
-DTEND:20250606T130000
-DTSTAMP:20250527T203140Z
-DTSTART:20250606T120000
-LOCATION:MkTickets.mk
-ORGANIZER:mailto:MkTickets.mk
-SEQUENCE:0
-SUMMARY:KIMMO POHJONEN / MARIA JOÃO @ OFFest 2025
-UID:https://mktickets.mk/event/kpmj/
-URL:https://mktickets.mk/event/kpmj/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:MTBot -
-DTEND:20250606T210000
-DTSTAMP:20250527T203140Z
-DTSTART:20250606T200000
-LOCATION:TeatarKomedija
-ORGANIZER:mailto:TeatarKomedija
-SEQUENCE:0
-SUMMARY:ИЛУМИНАТИ
-UID:TeatarKomedija_380
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:MTBot - https://eticket.ffm.mk/mk/
-DTEND:20250606T214500
-DTSTAMP:20250527T203140Z
-DTSTART:20250606T204500
-LOCATION:eticket.ffm.mk
-ORGANIZER:mailto:eticket.ffm.mk
-SEQUENCE:0
-SUMMARY:МАКЕДОНИЈА - БЕЛГИЈА
-UID:https://eticket.ffm.mk/mk/_МАКЕДОНИЈА - БЕЛГИЈА
-URL:https://eticket.ffm.mk/mk/
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:MTBot - https://www.karti.com.mk/vieux-farka-tour-florence-ado
  oni-offest-2025.nspx
 DTEND:20250607T130000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250607T120000
 LOCATION:Karti.com.mk
 ORGANIZER:mailto:Karti.com.mk
@@ -761,7 +289,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:MTBot - https://mktickets.mk/event/vftfa/
 DTEND:20250607T130000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250607T120000
 LOCATION:MkTickets.mk
 ORGANIZER:mailto:MkTickets.mk
@@ -771,9 +299,21 @@ UID:https://mktickets.mk/event/vftfa/
 URL:https://mktickets.mk/event/vftfa/
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:MTBot - https://mktickets.mk/event/rkvar/
+DTEND:20250607T130000
+DTSTAMP:20250607T100050Z
+DTSTART:20250607T120000
+LOCATION:MkTickets.mk
+ORGANIZER:mailto:MkTickets.mk
+SEQUENCE:0
+SUMMARY:РК Вардар &#8211\; РК Пелистер
+UID:https://mktickets.mk/event/rkvar/
+URL:https://mktickets.mk/event/rkvar/
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:MTBot - https://bileti.drugastrana.mk/index.php?id=539
 DTEND:20250607T190000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250607T180000
 LOCATION:DrugaStrana
 ORGANIZER:mailto:DrugaStrana
@@ -785,7 +325,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:MTBot -
 DTEND:20250607T210000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250607T200000
 LOCATION:TeatarKomedija
 ORGANIZER:mailto:TeatarKomedija
@@ -796,7 +336,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:MTBot - https://bileti.drugastrana.mk/index.php?id=535
 DTEND:20250607T210000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250607T200000
 LOCATION:DrugaStrana
 ORGANIZER:mailto:DrugaStrana
@@ -808,7 +348,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:MTBot - https://www.karti.com.mk/glumcite-peat-08-06.nspx
 DTEND:20250608T130000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250608T120000
 LOCATION:Karti.com.mk
 ORGANIZER:mailto:Karti.com.mk
@@ -821,7 +361,7 @@ BEGIN:VEVENT
 DESCRIPTION:MTBot - https://www.karti.com.mk/j-lia-koz-kov-trio-offest-202
  5.nspx
 DTEND:20250608T130000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250608T120000
 LOCATION:Karti.com.mk
 ORGANIZER:mailto:Karti.com.mk
@@ -834,7 +374,7 @@ BEGIN:VEVENT
 DESCRIPTION:MTBot - https://www.karti.com.mk/mord-i-lufthansa-offest-2025.
  nspx
 DTEND:20250608T130000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250608T120000
 LOCATION:Karti.com.mk
 ORGANIZER:mailto:Karti.com.mk
@@ -847,7 +387,7 @@ BEGIN:VEVENT
 DESCRIPTION:MTBot - https://www.karti.com.mk/saravah-documentary-film-offe
  st-2025.nspx
 DTEND:20250608T130000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250608T120000
 LOCATION:Karti.com.mk
 ORGANIZER:mailto:Karti.com.mk
@@ -859,7 +399,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:MTBot - https://mktickets.mk/event/saravah/
 DTEND:20250608T130000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250608T120000
 LOCATION:MkTickets.mk
 ORGANIZER:mailto:MkTickets.mk
@@ -871,7 +411,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:MTBot - https://mktickets.mk/event/glumicite-peat/
 DTEND:20250608T130000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250608T120000
 LOCATION:MkTickets.mk
 ORGANIZER:mailto:MkTickets.mk
@@ -883,7 +423,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:MTBot - https://mktickets.mk/event/jkt/
 DTEND:20250608T130000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250608T120000
 LOCATION:MkTickets.mk
 ORGANIZER:mailto:MkTickets.mk
@@ -895,7 +435,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:MTBot - https://mktickets.mk/event/ml/
 DTEND:20250608T130000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250608T120000
 LOCATION:MkTickets.mk
 ORGANIZER:mailto:MkTickets.mk
@@ -905,21 +445,32 @@ UID:https://mktickets.mk/event/ml/
 URL:https://mktickets.mk/event/ml/
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:MTBot -
+DTEND:20250608T200000
+DTSTAMP:20250607T100050Z
+DTSTART:20250608T190000
+LOCATION:TeatarKomedija
+ORGANIZER:mailto:TeatarKomedija
+SEQUENCE:0
+SUMMARY:СРАМОТА!\, ВЕЧЕР НА РАСКАЖУВАЊЕ КВИР ПРИКАЗНИ
+UID:TeatarKomedija_406
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:MTBot - https://mnt.mk/online/index.php?id=
 DTEND:20250608T213000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250608T203000
 LOCATION:MNT
 ORGANIZER:mailto:MNT
 SEQUENCE:0
 SUMMARY:Глумците пеат
-UID:MNT_/_2cc77bd3-7a0b-4d04-81dd-ecc5b41f3dd1
+UID:MNT_/_7da02918-09d6-4762-aecb-3a937c0e533b
 URL:https://mnt.mk/online/index.php?id=
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:MTBot - https://www.karti.com.mk/glumcite-peat-09-06.nspx
 DTEND:20250609T130000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250609T120000
 LOCATION:Karti.com.mk
 ORGANIZER:mailto:Karti.com.mk
@@ -931,7 +482,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:MTBot - https://mktickets.mk/event/glumcite-peat/
 DTEND:20250609T130000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250609T120000
 LOCATION:MkTickets.mk
 ORGANIZER:mailto:MkTickets.mk
@@ -943,66 +494,66 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:MTBot - https://mnt.mk/online/index.php?id=
 DTEND:20250609T213000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250609T203000
 LOCATION:MNT
 ORGANIZER:mailto:MNT
 SEQUENCE:0
 SUMMARY:Глумците пеат
-UID:MNT_/_6c6e5b9f-328b-4ec0-98be-2f4e6b9d1a56
+UID:MNT_/_3a7924ec-ef3a-4ece-91a6-ac206d17ee9b
 URL:https://mnt.mk/online/index.php?id=
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:MTBot - https://mnt.mk/online/index.php?id=566
 DTEND:20250610T210000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250610T200000
 LOCATION:MNT
 ORGANIZER:mailto:MNT
 SEQUENCE:0
 SUMMARY:Фестивал на класичен балет и модерен танц
-UID:MNT_566_f7f75616-68ee-4c47-999d-28fd4195b9b3
+UID:MNT_566_d4145342-7b20-4e23-911e-aa55b353d1d6
 URL:https://mnt.mk/online/index.php?id=566
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:MTBot -
 DTEND:20250610T210000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250610T200000
 LOCATION:TeatarKomedija
 ORGANIZER:mailto:TeatarKomedija
 SEQUENCE:0
 SUMMARY:ВИСТИНАТА 2
-UID:TeatarKomedija_403_09f3e7e9-2afe-4157-a07e-0153f8d1c9b4
+UID:TeatarKomedija_403
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:MTBot - https://mnt.mk/online/index.php?id=566
 DTEND:20250611T190000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250611T180000
 LOCATION:MNT
 ORGANIZER:mailto:MNT
 SEQUENCE:0
 SUMMARY:Фестивал на класичен балет и модерен танц
-UID:MNT_566_18520062-1d23-45be-b08a-d8988fad9597
+UID:MNT_566_aca43c92-5c5a-438b-9a20-ef648310b828
 URL:https://mnt.mk/online/index.php?id=566
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:MTBot - https://mnt.mk/online/index.php?id=566
 DTEND:20250611T210000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250611T200000
 LOCATION:MNT
 ORGANIZER:mailto:MNT
 SEQUENCE:0
 SUMMARY:Фестивал на класичен балет и модерен танц
-UID:MNT_566_a4ce550a-0c30-487b-89ff-2d585976b4bd
+UID:MNT_566_4be46c89-4c8f-495a-9189-eec028fe26ba
 URL:https://mnt.mk/online/index.php?id=566
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:MTBot - https://www.kupikarta.com/tickets.nspx?eventid=5662
 DTEND:20250612T190000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250612T180000
 LOCATION:KupiKarta.com
 ORGANIZER:mailto:KupiKarta.com
@@ -1014,7 +565,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:MTBot - https://mnt.mk/online/index.php?id=632
 DTEND:20250612T213000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250612T203000
 LOCATION:MNT
 ORGANIZER:mailto:MNT
@@ -1026,7 +577,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:MTBot - https://mnt.mk/online/index.php?id=633
 DTEND:20250613T213000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250613T203000
 LOCATION:MNT
 ORGANIZER:mailto:MNT
@@ -1037,21 +588,9 @@ UID:MNT_633
 URL:https://mnt.mk/online/index.php?id=633
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:MTBot - https://bileti.drugastrana.mk/index.php?id=545
-DTEND:20250613T220000
-DTSTAMP:20250527T203140Z
-DTSTART:20250613T210000
-LOCATION:DrugaStrana
-ORGANIZER:mailto:DrugaStrana
-SEQUENCE:0
-SUMMARY:ВЛАТКО ЛОЗАНОСКИ
-UID:DrugaStrana_545
-URL:https://bileti.drugastrana.mk/index.php?id=545
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:MTBot - https://ticketx.mk/events/electronic-retreat-timmy
 DTEND:20250613T220002Z
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250613T210002Z
 LOCATION:TicketX.mk
 ORGANIZER:mailto:TicketX.mk
@@ -1061,9 +600,33 @@ UID:https://ticketx.mk/events/electronic-retreat-timmy
 URL:https://ticketx.mk/events/electronic-retreat-timmy
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:MTBot - https://www.karti.com.mk/zemjata-na-cudata.nspx
+DTEND:20250614T130000
+DTSTAMP:20250607T100050Z
+DTSTART:20250614T120000
+LOCATION:Karti.com.mk
+ORGANIZER:mailto:Karti.com.mk
+SEQUENCE:0
+SUMMARY:Земјата на чудата
+UID:https://www.karti.com.mk/zemjata-na-cudata.nspx
+URL:https://www.karti.com.mk/zemjata-na-cudata.nspx
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://mktickets.mk/event/zcart/
+DTEND:20250614T130000
+DTSTAMP:20250607T100050Z
+DTSTART:20250614T120000
+LOCATION:MkTickets.mk
+ORGANIZER:mailto:MkTickets.mk
+SEQUENCE:0
+SUMMARY:Земјата на чудата
+UID:https://mktickets.mk/event/zcart/
+URL:https://mktickets.mk/event/zcart/
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:MTBot - https://bileti.drugastrana.mk/index.php?id=548
 DTEND:20250614T200000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250614T190000
 LOCATION:DrugaStrana
 ORGANIZER:mailto:DrugaStrana
@@ -1075,7 +638,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:MTBot - https://mnt.mk/online/index.php?id=634
 DTEND:20250614T213000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250614T203000
 LOCATION:MNT
 ORGANIZER:mailto:MNT
@@ -1088,7 +651,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:MTBot - https://www.karti.com.mk/matteo-bocelli.nspx
 DTEND:20250615T130000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250615T120000
 LOCATION:Karti.com.mk
 ORGANIZER:mailto:Karti.com.mk
@@ -1100,7 +663,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:MTBot - https://mktickets.mk/event/matbo-sn/
 DTEND:20250615T130000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250615T120000
 LOCATION:MkTickets.mk
 ORGANIZER:mailto:MkTickets.mk
@@ -1113,7 +676,7 @@ BEGIN:VEVENT
 DESCRIPTION:MTBot - https://mktickets.mk/event/koncert-na-filmska-muzika-k
  iril/
 DTEND:20250615T130000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250615T120000
 LOCATION:MkTickets.mk
 ORGANIZER:mailto:MkTickets.mk
@@ -1123,9 +686,21 @@ UID:https://mktickets.mk/event/koncert-na-filmska-muzika-kiril/
 URL:https://mktickets.mk/event/koncert-na-filmska-muzika-kiril/
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:MTBot - https://bileti.drugastrana.mk/index.php?id=553
+DTEND:20250615T220000
+DTSTAMP:20250607T100050Z
+DTSTART:20250615T210000
+LOCATION:DrugaStrana
+ORGANIZER:mailto:DrugaStrana
+SEQUENCE:0
+SUMMARY:НЕЖНИ МАЖИ (15.06)
+UID:DrugaStrana_553
+URL:https://bileti.drugastrana.mk/index.php?id=553
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:MTBot - https://yournextevent.info/event.php?id=108
 DTEND:20250617T130000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250617T120000
 LOCATION:yournextevent.info
 ORGANIZER:mailto:yournextevent.info
@@ -1135,9 +710,21 @@ UID:https://yournextevent.info/event.php?id=108
 URL:https://yournextevent.info/event.php?id=108
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:MTBot - https://bileti.drugastrana.mk/index.php?id=552
+DTEND:20250617T203000
+DTSTAMP:20250607T100050Z
+DTSTART:20250617T193000
+LOCATION:DrugaStrana
+ORGANIZER:mailto:DrugaStrana
+SEQUENCE:0
+SUMMARY:СЕКСУАЛНО ОБРАЗОВАНИЕ II: БОРБА
+UID:DrugaStrana_552
+URL:https://bileti.drugastrana.mk/index.php?id=552
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:MTBot - https://yournextevent.info/event.php?id=109
 DTEND:20250618T130000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250618T120000
 LOCATION:yournextevent.info
 ORGANIZER:mailto:yournextevent.info
@@ -1149,7 +736,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:MTBot - https://mktickets.mk/event/pop2k/
 DTEND:20250619T130000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250619T120000
 LOCATION:MkTickets.mk
 ORGANIZER:mailto:MkTickets.mk
@@ -1159,9 +746,21 @@ UID:https://mktickets.mk/event/pop2k/
 URL:https://mktickets.mk/event/pop2k/
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:MTBot - https://mnt.mk/online/index.php?id=
+DTEND:20250619T210000
+DTSTAMP:20250607T100050Z
+DTSTART:20250619T200000
+LOCATION:MNT
+ORGANIZER:mailto:MNT
+SEQUENCE:0
+SUMMARY:Торонто експрес
+UID:MNT_/_b44bfb10-7cb8-4e11-b2b3-c016d27a17b3
+URL:https://mnt.mk/online/index.php?id=
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:MTBot - https://mnt.mk/online/index.php?id=635
 DTEND:20250619T213000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250619T203000
 LOCATION:MNT
 ORGANIZER:mailto:MNT
@@ -1174,7 +773,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:MTBot - https://mnt.mk/online/index.php?id=636
 DTEND:20250620T213000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250620T203000
 LOCATION:MNT
 ORGANIZER:mailto:MNT
@@ -1185,21 +784,21 @@ UID:MNT_636
 URL:https://mnt.mk/online/index.php?id=636
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:MTBot - https://bileti.drugastrana.mk/index.php?id=546
-DTEND:20250620T220000
-DTSTAMP:20250527T203140Z
-DTSTART:20250620T210000
-LOCATION:DrugaStrana
-ORGANIZER:mailto:DrugaStrana
+DESCRIPTION:MTBot - https://ticketx.mk/events/piknik-pelince
+DTEND:20250621T130000Z
+DTSTAMP:20250607T100050Z
+DTSTART:20250621T120000Z
+LOCATION:TicketX.mk
+ORGANIZER:mailto:TicketX.mk
 SEQUENCE:0
-SUMMARY:НЕША - ГАЛИЈА
-UID:DrugaStrana_546
-URL:https://bileti.drugastrana.mk/index.php?id=546
+SUMMARY:ПИКНИК У ПЕЛИНЦЕ - 21-22.06.2025
+UID:https://ticketx.mk/events/piknik-pelince
+URL:https://ticketx.mk/events/piknik-pelince
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:MTBot - https://mnt.mk/online/index.php?id=637
 DTEND:20250621T213000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250621T203000
 LOCATION:MNT
 ORGANIZER:mailto:MNT
@@ -1210,9 +809,21 @@ UID:MNT_637
 URL:https://mnt.mk/online/index.php?id=637
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:MTBot - https://www.karti.com.mk/gospogja-bovari-premiera.nspx
+DTEND:20250625T130000
+DTSTAMP:20250607T100050Z
+DTSTART:20250625T120000
+LOCATION:Karti.com.mk
+ORGANIZER:mailto:Karti.com.mk
+SEQUENCE:0
+SUMMARY:Госпоѓа Бовари - Премиера
+UID:https://www.karti.com.mk/gospogja-bovari-premiera.nspx
+URL:https://www.karti.com.mk/gospogja-bovari-premiera.nspx
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:MTBot - https://ticketx.mk/events/Finki-skc
 DTEND:20250625T101506Z
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250625T091506Z
 LOCATION:TicketX.mk
 ORGANIZER:mailto:TicketX.mk
@@ -1224,7 +835,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:MTBot - https://mktickets.mk/event/sofia-live-festival-2025/
 DTEND:20250627T130000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250627T120000
 LOCATION:MkTickets.mk
 ORGANIZER:mailto:MkTickets.mk
@@ -1237,7 +848,7 @@ BEGIN:VEVENT
 DESCRIPTION:MTBot - https://www.karti.com.mk/massive-attack-skopje-calling
  -2025.nspx
 DTEND:20250628T130000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250628T120000
 LOCATION:Karti.com.mk
 ORGANIZER:mailto:Karti.com.mk
@@ -1250,7 +861,7 @@ BEGIN:VEVENT
 DESCRIPTION:MTBot - https://mktickets.mk/event/massive-attack-skopje-calli
  ng-2025/
 DTEND:20250628T130000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250628T120000
 LOCATION:MkTickets.mk
 ORGANIZER:mailto:MkTickets.mk
@@ -1263,7 +874,7 @@ BEGIN:VEVENT
 DESCRIPTION:MTBot - https://www.karti.com.mk/joker-out-skopje-calling-2025
  .nspx
 DTEND:20250629T130000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250629T120000
 LOCATION:Karti.com.mk
 ORGANIZER:mailto:Karti.com.mk
@@ -1276,7 +887,7 @@ BEGIN:VEVENT
 DESCRIPTION:MTBot - https://www.karti.com.mk/jordan-kostov-i-negoviot-albu
  m-maglota.nspx
 DTEND:20250630T130000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250630T120000
 LOCATION:Karti.com.mk
 ORGANIZER:mailto:Karti.com.mk
@@ -1288,7 +899,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:MTBot - https://mktickets.mk/event/maglota/
 DTEND:20250630T130000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250630T120000
 LOCATION:MkTickets.mk
 ORGANIZER:mailto:MkTickets.mk
@@ -1299,9 +910,21 @@ UID:https://mktickets.mk/event/maglota/
 URL:https://mktickets.mk/event/maglota/
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:MTBot - https://www.karti.com.mk/d-festival-2025.nspx
+DTEND:20250704T130000
+DTSTAMP:20250607T100050Z
+DTSTART:20250704T120000
+LOCATION:Karti.com.mk
+ORGANIZER:mailto:Karti.com.mk
+SEQUENCE:0
+SUMMARY:Д фестивал 2025
+UID:https://www.karti.com.mk/d-festival-2025.nspx
+URL:https://www.karti.com.mk/d-festival-2025.nspx
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:MTBot - https://mktickets.mk/event/d-festival-2025/
 DTEND:20250704T130000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250704T120000
 LOCATION:MkTickets.mk
 ORGANIZER:mailto:MkTickets.mk
@@ -1313,7 +936,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:MTBot - https://www.karti.com.mk/exit-2025.nspx
 DTEND:20250710T130000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250710T120000
 LOCATION:Karti.com.mk
 ORGANIZER:mailto:Karti.com.mk
@@ -1325,7 +948,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:MTBot - https://www.kupikarta.com/tickets.nspx?eventid=5657
 DTEND:20250711T220000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250711T210000
 LOCATION:KupiKarta.com
 ORGANIZER:mailto:KupiKarta.com
@@ -1337,7 +960,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:MTBot - https://www.kupikarta.com/tickets.nspx?eventid=5661
 DTEND:20250717T220000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250717T210000
 LOCATION:KupiKarta.com
 ORGANIZER:mailto:KupiKarta.com
@@ -1347,9 +970,22 @@ UID:https://www.kupikarta.com/tickets.nspx?eventid=5661
 URL:https://www.kupikarta.com/tickets.nspx?eventid=5661
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:MTBot - https://www.karti.com.mk/najdobroto-od-igor-dzambazov-
+ na-ohridski.nspx
+DTEND:20250719T130000
+DTSTAMP:20250607T100050Z
+DTSTART:20250719T120000
+LOCATION:Karti.com.mk
+ORGANIZER:mailto:Karti.com.mk
+SEQUENCE:0
+SUMMARY:Најдоброто од Игор Џамбазов на Охридски
+UID:https://www.karti.com.mk/najdobroto-od-igor-dzambazov-na-ohridski.nspx
+URL:https://www.karti.com.mk/najdobroto-od-igor-dzambazov-na-ohridski.nspx
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:MTBot - https://mktickets.mk/event/cda-exp-2/
 DTEND:20250719T130000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250719T120000
 LOCATION:MkTickets.mk
 ORGANIZER:mailto:MkTickets.mk
@@ -1359,9 +995,21 @@ UID:https://mktickets.mk/event/cda-exp-2/
 URL:https://mktickets.mk/event/cda-exp-2/
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:MTBot - https://mktickets.mk/event/igoh/
+DTEND:20250719T130000
+DTSTAMP:20250607T100050Z
+DTSTART:20250719T120000
+LOCATION:MkTickets.mk
+ORGANIZER:mailto:MkTickets.mk
+SEQUENCE:0
+SUMMARY:Најдоброто од Игор Џамбазов на Охридски
+UID:https://mktickets.mk/event/igoh/
+URL:https://mktickets.mk/event/igoh/
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:MTBot - https://www.kupikarta.com/tickets.nspx?eventid=5665
 DTEND:20250719T220000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250719T210000
 LOCATION:KupiKarta.com
 ORGANIZER:mailto:KupiKarta.com
@@ -1373,7 +1021,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:MTBot - https://ticketx.mk/events/d-fest
 DTEND:20250725T130009Z
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250725T120009Z
 LOCATION:TicketX.mk
 ORGANIZER:mailto:TicketX.mk
@@ -1385,7 +1033,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:MTBot - https://yournextevent.info/event.php?id=145
 DTEND:20250729T130000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250729T120000
 LOCATION:yournextevent.info
 ORGANIZER:mailto:yournextevent.info
@@ -1395,21 +1043,33 @@ UID:https://yournextevent.info/event.php?id=145
 URL:https://yournextevent.info/event.php?id=145
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:MTBot - https://mktickets.mk/event/tpf25/
+DTEND:20250801T130000
+DTSTAMP:20250607T100050Z
+DTSTART:20250801T120000
+LOCATION:MkTickets.mk
+ORGANIZER:mailto:MkTickets.mk
+SEQUENCE:0
+SUMMARY:The Park Festival 2025
+UID:https://mktickets.mk/event/tpf25/
+URL:https://mktickets.mk/event/tpf25/
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:MTBot - https://www.kupikarta.com/tickets.nspx?eventid=5664
 DTEND:20250801T213000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250801T203000
 LOCATION:KupiKarta.com
 ORGANIZER:mailto:KupiKarta.com
 SEQUENCE:0
-SUMMARY:ЛЕПА БРЕНА
+SUMMARY:ЛЕПА БРЕНА И САША КОВАЧЕВИЌ
 UID:https://www.kupikarta.com/tickets.nspx?eventid=5664
 URL:https://www.kupikarta.com/tickets.nspx?eventid=5664
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:MTBot - https://www.kupikarta.com/tickets.nspx?eventid=5629
 DTEND:20250802T220000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250802T210000
 LOCATION:KupiKarta.com
 ORGANIZER:mailto:KupiKarta.com
@@ -1421,7 +1081,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:MTBot - https://www.kupikarta.com/tickets.nspx?eventid=5660
 DTEND:20250804T220000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250804T210000
 LOCATION:KupiKarta.com
 ORGANIZER:mailto:KupiKarta.com
@@ -1433,7 +1093,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:MTBot - https://www.kupikarta.com/tickets.nspx?eventid=5663
 DTEND:20250807T220000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250807T210000
 LOCATION:KupiKarta.com
 ORGANIZER:mailto:KupiKarta.com
@@ -1445,7 +1105,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:MTBot - https://www.kupikarta.com/tickets.nspx?eventid=5659
 DTEND:20250808T220000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250808T210000
 LOCATION:KupiKarta.com
 ORGANIZER:mailto:KupiKarta.com
@@ -1457,7 +1117,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:MTBot - https://www.kupikarta.com/tickets.nspx?eventid=5658
 DTEND:20250809T220000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250809T210000
 LOCATION:KupiKarta.com
 ORGANIZER:mailto:KupiKarta.com
@@ -1469,7 +1129,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:MTBot - https://www.karti.com.mk/nick-cave-solo.nspx
 DTEND:20250822T130000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20250822T120000
 LOCATION:Karti.com.mk
 ORGANIZER:mailto:Karti.com.mk
@@ -1479,34 +1139,10 @@ UID:https://www.karti.com.mk/nick-cave-solo.nspx
 URL:https://www.karti.com.mk/nick-cave-solo.nspx
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:MTBot - https://eticket.ffm.mk/mk/
-DTEND:20250907T190000
-DTSTAMP:20250527T203140Z
-DTSTART:20250907T180000
-LOCATION:eticket.ffm.mk
-ORGANIZER:mailto:eticket.ffm.mk
-SEQUENCE:0
-SUMMARY:МАКЕДОНИЈА - Лихтенштајн
-UID:https://eticket.ffm.mk/mk/_МАКЕДОНИЈА - Лихтенштајн
-URL:https://eticket.ffm.mk/mk/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:MTBot - https://bileti.drugastrana.mk/index.php?id=500
-DTEND:20250913T190000
-DTSTAMP:20250527T203140Z
-DTSTART:20250913T180000
-LOCATION:DrugaStrana
-ORGANIZER:mailto:DrugaStrana
-SEQUENCE:0
-SUMMARY:SKOPJE FURY
-UID:DrugaStrana_500
-URL:https://bileti.drugastrana.mk/index.php?id=500
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:MTBot - https://mktickets.mk/event/the-ultimate-guns-n-roses-e
  xperience/
 DTEND:20251003T130000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20251003T120000
 LOCATION:MkTickets.mk
 ORGANIZER:mailto:MkTickets.mk
@@ -1518,7 +1154,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:MTBot - https://www.kupikarta.com/tickets.nspx?eventid=5626
 DTEND:20251011T220000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20251011T210000
 LOCATION:KupiKarta.com
 ORGANIZER:mailto:KupiKarta.com
@@ -1528,21 +1164,9 @@ UID:https://www.kupikarta.com/tickets.nspx?eventid=5626
 URL:https://www.kupikarta.com/tickets.nspx?eventid=5626
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:MTBot - https://eticket.ffm.mk/mk/
-DTEND:20251013T214500
-DTSTAMP:20250527T203140Z
-DTSTART:20251013T204500
-LOCATION:eticket.ffm.mk
-ORGANIZER:mailto:eticket.ffm.mk
-SEQUENCE:0
-SUMMARY:МАКЕДОНИЈА - КАЗАХСТАН
-UID:https://eticket.ffm.mk/mk/_МАКЕДОНИЈА - КАЗАХСТАН
-URL:https://eticket.ffm.mk/mk/
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:MTBot - https://mnt.mk/online/index.php?id=621
 DTEND:20251014T210000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20251014T200000
 LOCATION:MNT
 ORGANIZER:mailto:MNT
@@ -1554,7 +1178,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:MTBot - https://mnt.mk/online/index.php?id=620
 DTEND:20251015T210000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20251015T200000
 LOCATION:MNT
 ORGANIZER:mailto:MNT
@@ -1564,9 +1188,33 @@ UID:MNT_620
 URL:https://mnt.mk/online/index.php?id=620
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:MTBot - https://ticketx.mk/events/dragana-mirkovic
+DTEND:20251018T210000Z
+DTSTAMP:20250607T100050Z
+DTSTART:20251018T200000Z
+LOCATION:TicketX.mk
+ORGANIZER:mailto:TicketX.mk
+SEQUENCE:0
+SUMMARY:ДРАГАНА МИРКОВИЌ - 18.10.2025
+UID:https://ticketx.mk/events/dragana-mirkovic
+URL:https://ticketx.mk/events/dragana-mirkovic
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://ticketx.mk/events/dragana-mirkovic-vip
+DTEND:20251018T210000Z
+DTSTAMP:20250607T100050Z
+DTSTART:20251018T200000Z
+LOCATION:TicketX.mk
+ORGANIZER:mailto:TicketX.mk
+SEQUENCE:0
+SUMMARY:ДРАГАНА МИРКОВИЌ - 18.10.2025 - ВИП МАСИ
+UID:https://ticketx.mk/events/dragana-mirkovic-vip
+URL:https://ticketx.mk/events/dragana-mirkovic-vip
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:MTBot - https://www.kupikarta.com/tickets.nspx?eventid=5650
 DTEND:20251018T220000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20251018T210000
 LOCATION:KupiKarta.com
 ORGANIZER:mailto:KupiKarta.com
@@ -1578,46 +1226,46 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:MTBot - https://mnt.mk/online/index.php?id=
 DTEND:20251113T210000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20251113T200000
 LOCATION:MNT
 ORGANIZER:mailto:MNT
 SEQUENCE:0
 SUMMARY:Голем сценски спектакл „СОНЦЕТО\, КОЛКУ Е БЛИСКУ СОНЦЕТО“ MADE IN 
  МNT
-UID:MNT_/_ac376d4f-5505-46be-88ab-e69916cb7934
+UID:MNT_/_f3c28fb5-8fb3-42fe-8237-6520ad4277ad
 URL:https://mnt.mk/online/index.php?id=
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:MTBot - https://mnt.mk/online/index.php?id=622
 DTEND:20251114T210000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20251114T200000
 LOCATION:MNT
 ORGANIZER:mailto:MNT
 SEQUENCE:0
 SUMMARY:Голем сценски спектакл „СОНЦЕТО\, КОЛКУ Е БЛИСКУ СОНЦЕТО“ MADE IN 
  МNT
-UID:MNT_622_651e42cd-0c77-42ad-826c-951cfbf7e579
+UID:MNT_622_67b5fbad-c3e2-4993-9c77-e6c293b0e6e7
 URL:https://mnt.mk/online/index.php?id=622
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:MTBot - https://mnt.mk/online/index.php?id=622
 DTEND:20251117T210000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20251117T200000
 LOCATION:MNT
 ORGANIZER:mailto:MNT
 SEQUENCE:0
 SUMMARY:Голем сценски спектакл „СОНЦЕТО\, КОЛКУ Е БЛИСКУ СОНЦЕТО“ MADE IN 
  МNT
-UID:MNT_622_e9d08397-0a26-4261-8e26-2f1055f77679
+UID:MNT_622_bedc2234-e990-40c2-bf96-c8a61c8b5244
 URL:https://mnt.mk/online/index.php?id=622
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:MTBot - https://www.kupikarta.com/tickets.nspx?eventid=5653
 DTEND:20251129T220000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20251129T210000
 LOCATION:KupiKarta.com
 ORGANIZER:mailto:KupiKarta.com
@@ -1630,7 +1278,7 @@ BEGIN:VEVENT
 DESCRIPTION:MTBot - https://www.karti.com.mk/balkanska-kafana-najgolemata-
  zurka-za-ovaa-godina.nspx
 DTEND:20251227T130000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20251227T120000
 LOCATION:Karti.com.mk
 ORGANIZER:mailto:Karti.com.mk
@@ -1644,7 +1292,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:MTBot - https://www.kupikarta.com/tickets.nspx?eventid=5648
 DTEND:20251227T220000
-DTSTAMP:20250527T203140Z
+DTSTAMP:20250607T100050Z
 DTSTART:20251227T210000
 LOCATION:KupiKarta.com
 ORGANIZER:mailto:KupiKarta.com
@@ -1652,17 +1300,5 @@ SEQUENCE:0
 SUMMARY:АЦО ПЕЈОВИЌ
 UID:https://www.kupikarta.com/tickets.nspx?eventid=5648
 URL:https://www.kupikarta.com/tickets.nspx?eventid=5648
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:MTBot - https://bileti.drugastrana.mk/index.php?id=498
-DTEND:20300101T130000
-DTSTAMP:20250527T203140Z
-DTSTART:20300101T120000
-LOCATION:DrugaStrana
-ORGANIZER:mailto:DrugaStrana
-SEQUENCE:0
-SUMMARY:TEST FM
-UID:DrugaStrana_498
-URL:https://bileti.drugastrana.mk/index.php?id=498
 END:VEVENT
 END:VCALENDAR
