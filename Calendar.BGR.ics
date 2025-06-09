@@ -5,7 +5,7 @@ BEGIN:VEVENT
 DESCRIPTION:MTBot - https://bilet.bg/bg/cart/sezonite-na-edno-gluxarce-poe
  ticno-muzikalen-spektakiel-6409
 DTEND:20250609T203000
-DTSTAMP:20250609T144237Z
+DTSTAMP:20250609T154241Z
 DTSTART:20250609T193000
 LOCATION:BiletBG
 ORGANIZER:mailto:BiletBG
@@ -19,7 +19,7 @@ BEGIN:VEVENT
 DESCRIPTION:MTBot - https://bilet.bg/bg/cart/live-at-petnoto-dury-dava-gr-
  6418
 DTEND;VALUE=DATE:20250610
-DTSTAMP:20250609T144237Z
+DTSTAMP:20250609T154241Z
 DTSTART:20250609T230000
 LOCATION:BiletBG
 ORGANIZER:mailto:BiletBG
@@ -31,7 +31,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:MTBot - https://bilet.bg/bg/cart/black-flag-live-in-sofia-5784
 DTEND:20250610T210000
-DTSTAMP:20250609T144237Z
+DTSTAMP:20250609T154241Z
 DTSTART:20250610T200000
 LOCATION:BiletBG
 ORGANIZER:mailto:BiletBG
@@ -44,7 +44,7 @@ BEGIN:VEVENT
 DESCRIPTION:MTBot - https://bilet.bg/bg/cart/live-at-petnoto-bassy-glasa-b
  g-6419
 DTEND;VALUE=DATE:20250611
-DTSTAMP:20250609T144237Z
+DTSTAMP:20250609T154241Z
 DTSTART:20250610T230000
 LOCATION:BiletBG
 ORGANIZER:mailto:BiletBG
@@ -57,7 +57,7 @@ BEGIN:VEVENT
 DESCRIPTION:MTBot - https://bilet.bg/bg/cart/niki-rce-live-bar-petiek-1106
  2025-6298
 DTEND:20250611T220000
-DTSTAMP:20250609T144237Z
+DTSTAMP:20250609T154241Z
 DTSTART:20250611T210000
 LOCATION:BiletBG
 ORGANIZER:mailto:BiletBG
@@ -70,7 +70,7 @@ BEGIN:VEVENT
 DESCRIPTION:MTBot - https://bilet.bg/bg/cart/car-pliex-album-promo-plovdiv
  -live-at-bee-bop-cafe-6300
 DTEND:20250613T200000
-DTSTAMP:20250609T144237Z
+DTSTAMP:20250609T154241Z
 DTSTART:20250613T190000
 LOCATION:BiletBG
 ORGANIZER:mailto:BiletBG
@@ -84,7 +84,7 @@ BEGIN:VEVENT
 DESCRIPTION:MTBot - https://bilet.bg/bg/cart/liatno-turne-2025-koncert-na-
  sveshhi-s-bobi-vielcev-i-big-bend-plovdiv-burgas-5939
 DTEND:20250614T220000
-DTSTAMP:20250609T144237Z
+DTSTAMP:20250609T154241Z
 DTSTART:20250614T210000
 LOCATION:BiletBG
 ORGANIZER:mailto:BiletBG
@@ -100,7 +100,7 @@ BEGIN:VEVENT
 DESCRIPTION:MTBot - https://bilet.bg/bg/cart/konstantin-kovacev-album-prom
  o-live-bar-petiek-16062025-6377
 DTEND:20250616T220000
-DTSTAMP:20250609T144237Z
+DTSTAMP:20250609T154241Z
 DTSTART:20250616T210000
 LOCATION:BiletBG
 ORGANIZER:mailto:BiletBG
@@ -114,7 +114,7 @@ BEGIN:VEVENT
 DESCRIPTION:MTBot - https://bilet.bg/bg/cart/dani-stoikova-live-album-prom
  o-bar-petiek-18062025-6378
 DTEND:20250618T220000
-DTSTAMP:20250609T144237Z
+DTSTAMP:20250609T154241Z
 DTSTART:20250618T210000
 LOCATION:BiletBG
 ORGANIZER:mailto:BiletBG
@@ -128,7 +128,7 @@ BEGIN:VEVENT
 DESCRIPTION:MTBot - https://bilet.bg/bg/cart/spalni-mesta-all-ages-live-ba
  r-petiek-19062025-6299
 DTEND:20250619T200000
-DTSTAMP:20250609T144237Z
+DTSTAMP:20250609T154241Z
 DTSTART:20250619T190000
 LOCATION:BiletBG
 ORGANIZER:mailto:BiletBG
@@ -139,10 +139,25 @@ URL:https://bilet.bg/bg/cart/spalni-mesta-all-ages-live-bar-petiek-1906202
  5-6299
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:MTBot - https://festteam.bg/eventer/aura-festival-lost-frequen
+ cies-more/edate/2025-06-20
+DTEND:20250620T200000
+DTSTAMP:20250609T154241Z
+DTSTART:20250620T190000
+LOCATION:FestTeamBG
+ORGANIZER:mailto:FestTeamBG
+SEQUENCE:0
+SUMMARY:AURA Festival | Celestial Gardens
+UID:https://festteam.bg/eventer/aura-festival-lost-frequencies-more/edate/
+ 2025-06-20
+URL:https://festteam.bg/eventer/aura-festival-lost-frequencies-more/edate/
+ 2025-06-20
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:MTBot - https://bilet.bg/bg/cart/liatno-turne-2025-koncert-na-
  sveshhi-s-bobi-vielcev-i-big-bend-plovdiv-varna-5940
 DTEND:20250620T220000
-DTSTAMP:20250609T144237Z
+DTSTAMP:20250609T154241Z
 DTSTART:20250620T210000
 LOCATION:BiletBG
 ORGANIZER:mailto:BiletBG
@@ -158,7 +173,7 @@ BEGIN:VEVENT
 DESCRIPTION:MTBot - https://bilet.bg/bg/cart/brant-bjork-trio-live-at-club
  -mixtape-5-2106-6013
 DTEND:20250621T210000
-DTSTAMP:20250609T144237Z
+DTSTAMP:20250609T154241Z
 DTSTART:20250621T200000
 LOCATION:BiletBG
 ORGANIZER:mailto:BiletBG
@@ -172,7 +187,7 @@ BEGIN:VEVENT
 DESCRIPTION:MTBot - https://bilet.bg/bg/cart/boy-harsher-us-live-at-maimun
  arnika-5981
 DTEND:20250622T200000
-DTSTAMP:20250609T144237Z
+DTSTAMP:20250609T154241Z
 DTSTART:20250622T190000
 LOCATION:BiletBG
 ORGANIZER:mailto:BiletBG
@@ -182,10 +197,53 @@ UID:boy-harsher-us-live-at-maimunarnika-5981
 URL:https://bilet.bg/bg/cart/boy-harsher-us-live-at-maimunarnika-5981
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:MTBot - https://festteam.bg/eventer/jean-michel-jarre-%d0%b0%d
+ 1%80%d0%b5%d0%bd%d0%b0-%d1%81%d0%be%d1%84%d0%b8%d1%8f-%d0%ba%d0%be%d0%bb%
+ d0%be%d0%b4%d1%80%d1%83%d0%bc/edate/2025-06-23
+DTEND:20250623T190000
+DTSTAMP:20250609T154241Z
+DTSTART:20250623T180000
+LOCATION:FestTeamBG
+ORGANIZER:mailto:FestTeamBG
+SEQUENCE:0
+SUMMARY:Jean-Michel Jarre @ Vidas Art Arena
+UID:https://festteam.bg/eventer/jean-michel-jarre-%d0%b0%d1%80%d0%b5%d0%bd
+ %d0%b0-%d1%81%d0%be%d1%84%d0%b8%d1%8f-%d0%ba%d0%be%d0%bb%d0%be%d0%b4%d1%8
+ 0%d1%83%d0%bc/edate/2025-06-23
+URL:https://festteam.bg/eventer/jean-michel-jarre-%d0%b0%d1%80%d0%b5%d0%bd
+ %d0%b0-%d1%81%d0%be%d1%84%d0%b8%d1%8f-%d0%ba%d0%be%d0%bb%d0%be%d0%b4%d1%8
+ 0%d1%83%d0%bc/edate/2025-06-23
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://festteam.bg/eventer/air-arena-sofia/edate/2025
+ -06-24
+DTEND:20250624T183000
+DTSTAMP:20250609T154241Z
+DTSTART:20250624T173000
+LOCATION:FestTeamBG
+ORGANIZER:mailto:FestTeamBG
+SEQUENCE:0
+SUMMARY:AIR @ Vidas Art Arena
+UID:https://festteam.bg/eventer/air-arena-sofia/edate/2025-06-24
+URL:https://festteam.bg/eventer/air-arena-sofia/edate/2025-06-24
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://festteam.bg/eventer/the-hu/edate/2025-06-25
+DTEND:20250625T193000
+DTSTAMP:20250609T154241Z
+DTSTART:20250625T183000
+LOCATION:FestTeamBG
+ORGANIZER:mailto:FestTeamBG
+SEQUENCE:0
+SUMMARY:THE HU @ Vidas Art Arena
+UID:https://festteam.bg/eventer/the-hu/edate/2025-06-25
+URL:https://festteam.bg/eventer/the-hu/edate/2025-06-25
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:MTBot - https://bilet.bg/bg/cart/detski-viezdusni-istorii-na-p
  ol-dens-bielgariia-6215
 DTEND:20250625T200000
-DTSTAMP:20250609T144237Z
+DTSTAMP:20250609T154241Z
 DTSTART:20250625T190000
 LOCATION:BiletBG
 ORGANIZER:mailto:BiletBG
@@ -199,7 +257,7 @@ BEGIN:VEVENT
 DESCRIPTION:MTBot - https://bilet.bg/bg/cart/best-fest-pres-chambao-live-a
  t-maimunarnika-sofia-6139
 DTEND:20250626T210000
-DTSTAMP:20250609T144237Z
+DTSTAMP:20250609T154241Z
 DTSTART:20250626T200000
 LOCATION:BiletBG
 ORGANIZER:mailto:BiletBG
@@ -213,7 +271,7 @@ BEGIN:VEVENT
 DESCRIPTION:MTBot - https://bilet.bg/bg/cart/chambao-live-at-vraca-festiva
  l-na-ispanskata-muzika-i-kultura-buenos-dias-6178
 DTEND:20250627T210000
-DTSTAMP:20250609T144237Z
+DTSTAMP:20250609T154241Z
 DTSTART:20250627T200000
 LOCATION:BiletBG
 ORGANIZER:mailto:BiletBG
@@ -229,7 +287,7 @@ BEGIN:VEVENT
 DESCRIPTION:MTBot - https://bilet.bg/bg/cart/chambao-live-in-plovdiv-at-pi
  vovarnitza-friks-6231
 DTEND:20250628T200000
-DTSTAMP:20250609T144237Z
+DTSTAMP:20250609T154241Z
 DTSTART:20250628T190000
 LOCATION:BiletBG
 ORGANIZER:mailto:BiletBG
@@ -243,7 +301,7 @@ BEGIN:VEVENT
 DESCRIPTION:MTBot - https://bilet.bg/bg/cart/million-stylez-danjah-jacky-m
  urda-ft-chopstick-dubplate-the-big-big-summer-reggae-vol22-6249
 DTEND:20250628T200000
-DTSTAMP:20250609T144237Z
+DTSTAMP:20250609T154241Z
 DTSTART:20250628T190000
 LOCATION:BiletBG
 ORGANIZER:mailto:BiletBG
@@ -258,7 +316,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:MTBot - https://bilet.bg/bg/cart/clamm-au-6254
 DTEND:20250628T210000
-DTSTAMP:20250609T144237Z
+DTSTAMP:20250609T154241Z
 DTSTART:20250628T200000
 LOCATION:BiletBG
 ORGANIZER:mailto:BiletBG
@@ -271,7 +329,7 @@ BEGIN:VEVENT
 DESCRIPTION:MTBot - https://bilet.bg/bg/cart/chambao-live-at-leten-teatier
  -varna-6204
 DTEND:20250629T213000
-DTSTAMP:20250609T144237Z
+DTSTAMP:20250609T154241Z
 DTSTART:20250629T203000
 LOCATION:BiletBG
 ORGANIZER:mailto:BiletBG
@@ -281,10 +339,23 @@ UID:chambao-live-at-leten-teatier-varna-6204
 URL:https://bilet.bg/bg/cart/chambao-live-at-leten-teatier-varna-6204
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:MTBot - https://festteam.bg/eventer/j-balvin-sofia-solid/edate
+ /2025-07-01
+DTEND:20250701T183000
+DTSTAMP:20250609T154241Z
+DTSTART:20250701T173000
+LOCATION:FestTeamBG
+ORGANIZER:mailto:FestTeamBG
+SEQUENCE:0
+SUMMARY:J Balvin @ Vidas Art Arena
+UID:https://festteam.bg/eventer/j-balvin-sofia-solid/edate/2025-07-01
+URL:https://festteam.bg/eventer/j-balvin-sofia-solid/edate/2025-07-01
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:MTBot - https://bilet.bg/bg/cart/j-balvin-party-reggaeton-flow
  -6212
 DTEND;VALUE=DATE:20250702
-DTSTAMP:20250609T144237Z
+DTSTAMP:20250609T154241Z
 DTSTART:20250701T230000
 LOCATION:BiletBG
 ORGANIZER:mailto:BiletBG
@@ -297,7 +368,7 @@ BEGIN:VEVENT
 DESCRIPTION:MTBot - https://bilet.bg/bg/cart/beloslava-live-at-maimunarnik
  a-6427
 DTEND:20250702T213000
-DTSTAMP:20250609T144237Z
+DTSTAMP:20250609T154241Z
 DTSTART:20250702T203000
 LOCATION:BiletBG
 ORGANIZER:mailto:BiletBG
@@ -310,7 +381,7 @@ BEGIN:VEVENT
 DESCRIPTION:MTBot - https://bilet.bg/bg/cart/legendary-smokie-50-years-of-
  music-live-in-burgas-5876
 DTEND:20250708T210000
-DTSTAMP:20250609T144237Z
+DTSTAMP:20250609T154241Z
 DTSTART:20250708T200000
 LOCATION:BiletBG
 ORGANIZER:mailto:BiletBG
@@ -321,10 +392,23 @@ URL:https://bilet.bg/bg/cart/legendary-smokie-50-years-of-music-live-in-bu
  rgas-5876
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:MTBot - https://festteam.bg/eventer/king-diamond/edate/2025-07
+ -09
+DTEND:20250709T193000
+DTSTAMP:20250609T154241Z
+DTSTART:20250709T183000
+LOCATION:FestTeamBG
+ORGANIZER:mailto:FestTeamBG
+SEQUENCE:0
+SUMMARY:KING DIAMOND @ Vidas Art Arena
+UID:https://festteam.bg/eventer/king-diamond/edate/2025-07-09
+URL:https://festteam.bg/eventer/king-diamond/edate/2025-07-09
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:MTBot - https://bilet.bg/bg/cart/legendary-smokie-50-years-of-
  music-live-in-varna-5875
 DTEND:20250709T210000
-DTSTAMP:20250609T144237Z
+DTSTAMP:20250609T154241Z
 DTSTART:20250709T200000
 LOCATION:BiletBG
 ORGANIZER:mailto:BiletBG
@@ -338,7 +422,7 @@ BEGIN:VEVENT
 DESCRIPTION:MTBot - https://bilet.bg/bg/cart/king-buffalo-us-live-in-sofia
  -6385
 DTEND:20250709T210000
-DTSTAMP:20250609T144237Z
+DTSTAMP:20250609T154241Z
 DTSTART:20250709T200000
 LOCATION:BiletBG
 ORGANIZER:mailto:BiletBG
@@ -351,7 +435,7 @@ BEGIN:VEVENT
 DESCRIPTION:MTBot - https://bilet.bg/bg/cart/exit-festival-25th-anniversar
  y-5752
 DTEND:20250710T150000
-DTSTAMP:20250609T144237Z
+DTSTAMP:20250609T154241Z
 DTSTART:20250710T140000
 LOCATION:BiletBG
 ORGANIZER:mailto:BiletBG
@@ -361,10 +445,80 @@ UID:exit-festival-25th-anniversary-5752
 URL:https://bilet.bg/bg/cart/exit-festival-25th-anniversary-5752
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:MTBot - https://festteam.bg/eventer/the-dandy-warhols-%d0%b0%d
+ 1%80%d0%b5%d0%bd%d0%b0-%d1%81%d0%be%d1%84%d0%b8%d1%8f-%d0%ba%d0%be%d0%bb%
+ d0%be%d0%b4%d1%80%d1%83%d0%bc/edate/2025-07-12
+DTEND:20250712T193000
+DTSTAMP:20250609T154241Z
+DTSTART:20250712T183000
+LOCATION:FestTeamBG
+ORGANIZER:mailto:FestTeamBG
+SEQUENCE:0
+SUMMARY:THE DANDY WARHOLS @ Vidas Art Arena
+UID:https://festteam.bg/eventer/the-dandy-warhols-%d0%b0%d1%80%d0%b5%d0%bd
+ %d0%b0-%d1%81%d0%be%d1%84%d0%b8%d1%8f-%d0%ba%d0%be%d0%bb%d0%be%d0%b4%d1%8
+ 0%d1%83%d0%bc/edate/2025-07-12
+URL:https://festteam.bg/eventer/the-dandy-warhols-%d0%b0%d1%80%d0%b5%d0%bd
+ %d0%b0-%d1%81%d0%be%d1%84%d0%b8%d1%8f-%d0%ba%d0%be%d0%bb%d0%be%d0%b4%d1%8
+ 0%d1%83%d0%bc/edate/2025-07-12
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://festteam.bg/eventer/%d0%bd%d0%be%d0%b2%d0%b0-%
+ d0%b4%d0%b0%d1%82%d0%b0-dream-theater-%d0%b0%d0%bd%d1%82%d0%b8%d1%87%d0%b
+ 5%d0%bd-%d1%82%d0%b5%d0%b0%d1%82%d1%8a%d1%80-%d0%bf%d0%bb%d0%be%d0%b2%d0%
+ b4%d0%b8%d0%b2/edate/2025-07-20
+DTEND:20250720T200000
+DTSTAMP:20250609T154241Z
+DTSTART:20250720T190000
+LOCATION:FestTeamBG
+ORGANIZER:mailto:FestTeamBG
+SEQUENCE:0
+SUMMARY:[Нова дата] Dream Theater\, Античен театър\, Пловдив
+UID:https://festteam.bg/eventer/%d0%bd%d0%be%d0%b2%d0%b0-%d0%b4%d0%b0%d1%8
+ 2%d0%b0-dream-theater-%d0%b0%d0%bd%d1%82%d0%b8%d1%87%d0%b5%d0%bd-%d1%82%d
+ 0%b5%d0%b0%d1%82%d1%8a%d1%80-%d0%bf%d0%bb%d0%be%d0%b2%d0%b4%d0%b8%d0%b2/e
+ date/2025-07-20
+URL:https://festteam.bg/eventer/%d0%bd%d0%be%d0%b2%d0%b0-%d0%b4%d0%b0%d1%8
+ 2%d0%b0-dream-theater-%d0%b0%d0%bd%d1%82%d0%b8%d1%87%d0%b5%d0%bd-%d1%82%d
+ 0%b5%d0%b0%d1%82%d1%8a%d1%80-%d0%bf%d0%bb%d0%be%d0%b2%d0%b4%d0%b8%d0%b2/e
+ date/2025-07-20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://festteam.bg/eventer/guns-n-roses-21-07-2025/ed
+ ate/2025-07-21
+DTEND:20250721T170000
+DTSTAMP:20250609T154241Z
+DTSTART:20250721T160000
+LOCATION:FestTeamBG
+ORGANIZER:mailto:FestTeamBG
+SEQUENCE:0
+SUMMARY:GUNS N&#8217\; ROSES
+UID:https://festteam.bg/eventer/guns-n-roses-21-07-2025/edate/2025-07-21
+URL:https://festteam.bg/eventer/guns-n-roses-21-07-2025/edate/2025-07-21
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://festteam.bg/eventer/dream-theater-%d0%b0%d0%bd
+ %d1%82%d0%b8%d1%87%d0%b5%d0%bd-%d1%82%d0%b5%d0%b0%d1%82%d1%8a%d1%80-%d0%b
+ f%d0%bb%d0%be%d0%b2%d0%b4%d0%b8%d0%b2/edate/2025-07-21
+DTEND:20250721T200000
+DTSTAMP:20250609T154241Z
+DTSTART:20250721T190000
+LOCATION:FestTeamBG
+ORGANIZER:mailto:FestTeamBG
+SEQUENCE:0
+SUMMARY:[Sold Out] Dream Theater\, Античен театър\, Пловдив
+UID:https://festteam.bg/eventer/dream-theater-%d0%b0%d0%bd%d1%82%d0%b8%d1%
+ 87%d0%b5%d0%bd-%d1%82%d0%b5%d0%b0%d1%82%d1%8a%d1%80-%d0%bf%d0%bb%d0%be%d0
+ %b2%d0%b4%d0%b8%d0%b2/edate/2025-07-21
+URL:https://festteam.bg/eventer/dream-theater-%d0%b0%d0%bd%d1%82%d0%b8%d1%
+ 87%d0%b5%d0%bd-%d1%82%d0%b5%d0%b0%d1%82%d1%8a%d1%80-%d0%bf%d0%bb%d0%be%d0
+ %b2%d0%b4%d0%b8%d0%b2/edate/2025-07-21
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:MTBot - https://bilet.bg/bg/cart/satchvai-band-joe-satriani-st
  eve-vai-5750
 DTEND:20250722T203000
-DTSTAMP:20250609T144237Z
+DTSTAMP:20250609T154241Z
 DTSTART:20250722T193000
 LOCATION:BiletBG
 ORGANIZER:mailto:BiletBG
@@ -374,10 +528,41 @@ UID:satchvai-band-joe-satriani-steve-vai-5750
 URL:https://bilet.bg/bg/cart/satchvai-band-joe-satriani-steve-vai-5750
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:MTBot - https://festteam.bg/eventer/hills-of-rock-2025-%d1%81-
+ gojira-sepultura-%d0%b8-%d0%b4%d1%80%d1%83%d0%b3%d0%b8/edate/2025-07-25
+DTEND:20250725T180000
+DTSTAMP:20250609T154241Z
+DTSTART:20250725T170000
+LOCATION:FestTeamBG
+ORGANIZER:mailto:FestTeamBG
+SEQUENCE:0
+SUMMARY:Hills of Rock 2025 с Gojira\, Machine Head\, The Smashing Pumpkins
+  и други&#8230\;
+UID:https://festteam.bg/eventer/hills-of-rock-2025-%d1%81-gojira-sepultura
+ -%d0%b8-%d0%b4%d1%80%d1%83%d0%b3%d0%b8/edate/2025-07-25
+URL:https://festteam.bg/eventer/hills-of-rock-2025-%d1%81-gojira-sepultura
+ -%d0%b8-%d0%b4%d1%80%d1%83%d0%b3%d0%b8/edate/2025-07-25
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://festteam.bg/eventer/roisin-murphy-burgas-summe
+ r-live/edate/2025-08-02
+DTEND:20250802T200000
+DTSTAMP:20250609T154241Z
+DTSTART:20250802T190000
+LOCATION:FestTeamBG
+ORGANIZER:mailto:FestTeamBG
+SEQUENCE:0
+SUMMARY:Róisín Murphy @ Burgas Summer Live
+UID:https://festteam.bg/eventer/roisin-murphy-burgas-summer-live/edate/202
+ 5-08-02
+URL:https://festteam.bg/eventer/roisin-murphy-burgas-summer-live/edate/202
+ 5-08-02
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:MTBot - https://bilet.bg/bg/cart/methus-brodnik-live-in-sofia-
  6136
 DTEND:20250803T210000
-DTSTAMP:20250609T144237Z
+DTSTAMP:20250609T154241Z
 DTSTART:20250803T200000
 LOCATION:BiletBG
 ORGANIZER:mailto:BiletBG
@@ -390,7 +575,7 @@ BEGIN:VEVENT
 DESCRIPTION:MTBot - https://bilet.bg/bg/cart/liatno-turne-2025-koncert-na-
  sveshhi-s-bobi-vielcev-i-big-bend-plovdiv-plovdiv-5941
 DTEND:20250804T220000
-DTSTAMP:20250609T144237Z
+DTSTAMP:20250609T154241Z
 DTSTART:20250804T210000
 LOCATION:BiletBG
 ORGANIZER:mailto:BiletBG
@@ -403,9 +588,22 @@ URL:https://bilet.bg/bg/cart/liatno-turne-2025-koncert-na-sveshhi-s-bobi-v
  ielcev-i-big-bend-plovdiv-plovdiv-5941
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:MTBot - https://festteam.bg/eventer/spice-music-festival-2025/
+ edate/2025-08-08
+DTEND:20250808T173000
+DTSTAMP:20250609T154241Z
+DTSTART:20250808T163000
+LOCATION:FestTeamBG
+ORGANIZER:mailto:FestTeamBG
+SEQUENCE:0
+SUMMARY:SPICE Music Festival 2025
+UID:https://festteam.bg/eventer/spice-music-festival-2025/edate/2025-08-08
+URL:https://festteam.bg/eventer/spice-music-festival-2025/edate/2025-08-08
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:MTBot - https://bilet.bg/bg/cart/egasi-festa-2025-6350
 DTEND:20250815T193000
-DTSTAMP:20250609T144237Z
+DTSTAMP:20250609T154241Z
 DTSTART:20250815T183000
 LOCATION:BiletBG
 ORGANIZER:mailto:BiletBG
@@ -415,10 +613,79 @@ UID:egasi-festa-2025-6350
 URL:https://bilet.bg/bg/cart/egasi-festa-2025-6350
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:MTBot - https://festteam.bg/eventer/nick-cave-ancient-theatre-
+ plovdiv-19-08-2025/edate/2025-08-19
+DTEND:20250819T210000
+DTSTAMP:20250609T154241Z
+DTSTART:20250819T200000
+LOCATION:FestTeamBG
+ORGANIZER:mailto:FestTeamBG
+SEQUENCE:0
+SUMMARY:[Sold Out] Nick Cave @ Античен театър\, Пловдив &#8211\; 19.08.2025
+UID:https://festteam.bg/eventer/nick-cave-ancient-theatre-plovdiv-19-08-20
+ 25/edate/2025-08-19
+URL:https://festteam.bg/eventer/nick-cave-ancient-theatre-plovdiv-19-08-20
+ 25/edate/2025-08-19
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://festteam.bg/eventer/nick-cave-%d0%b0%d0%bd%d1%
+ 82%d0%b8%d1%87%d0%b5%d0%bd-%d1%82%d0%b5%d0%b0%d1%82%d1%8a%d1%80-%d0%bf%d0
+ %bb%d0%be%d0%b2%d0%b4%d0%b8%d0%b2-20-08-2025/edate/2025-08-20
+DTEND:20250820T210000
+DTSTAMP:20250609T154241Z
+DTSTART:20250820T200000
+LOCATION:FestTeamBG
+ORGANIZER:mailto:FestTeamBG
+SEQUENCE:0
+SUMMARY:[Sold Out] Nick Cave @ Античен театър\, Пловдив &#8211\; 20.08.2025
+UID:https://festteam.bg/eventer/nick-cave-%d0%b0%d0%bd%d1%82%d0%b8%d1%87%d
+ 0%b5%d0%bd-%d1%82%d0%b5%d0%b0%d1%82%d1%8a%d1%80-%d0%bf%d0%bb%d0%be%d0%b2%
+ d0%b4%d0%b8%d0%b2-20-08-2025/edate/2025-08-20
+URL:https://festteam.bg/eventer/nick-cave-%d0%b0%d0%bd%d1%82%d0%b8%d1%87%d
+ 0%b5%d0%bd-%d1%82%d0%b5%d0%b0%d1%82%d1%8a%d1%80-%d0%bf%d0%bb%d0%be%d0%b2%
+ d0%b4%d0%b8%d0%b2-20-08-2025/edate/2025-08-20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://festteam.bg/eventer/orbital-%d0%b0%d1%80%d0%b5
+ %d0%bd%d0%b0-%d1%81%d0%be%d1%84%d0%b8%d1%8f-%d0%ba%d0%be%d0%bb%d0%be%d0%b
+ 4%d1%80%d1%83%d0%bc/edate/2025-08-21
+DTEND:20250821T190000
+DTSTAMP:20250609T154241Z
+DTSTART:20250821T180000
+LOCATION:FestTeamBG
+ORGANIZER:mailto:FestTeamBG
+SEQUENCE:0
+SUMMARY:Orbital @ Vidas Art Arena
+UID:https://festteam.bg/eventer/orbital-%d0%b0%d1%80%d0%b5%d0%bd%d0%b0-%d1
+ %81%d0%be%d1%84%d0%b8%d1%8f-%d0%ba%d0%be%d0%bb%d0%be%d0%b4%d1%80%d1%83%d0
+ %bc/edate/2025-08-21
+URL:https://festteam.bg/eventer/orbital-%d0%b0%d1%80%d0%b5%d0%bd%d0%b0-%d1
+ %81%d0%be%d1%84%d0%b8%d1%8f-%d0%ba%d0%be%d0%bb%d0%be%d0%b4%d1%80%d1%83%d0
+ %bc/edate/2025-08-21
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://festteam.bg/eventer/martin-garrix-%d0%b0%d1%80
+ %d0%b5%d0%bd%d0%b0-%d1%81%d0%be%d1%84%d0%b8%d1%8f-%d0%ba%d0%be%d0%bb%d0%b
+ e%d0%b4%d1%80%d1%83%d0%bc/edate/2025-08-22
+DTEND:20250822T183000
+DTSTAMP:20250609T154241Z
+DTSTART:20250822T173000
+LOCATION:FestTeamBG
+ORGANIZER:mailto:FestTeamBG
+SEQUENCE:0
+SUMMARY:Martin Garrix @ Vidas Art Arena
+UID:https://festteam.bg/eventer/martin-garrix-%d0%b0%d1%80%d0%b5%d0%bd%d0%
+ b0-%d1%81%d0%be%d1%84%d0%b8%d1%8f-%d0%ba%d0%be%d0%bb%d0%be%d0%b4%d1%80%d1
+ %83%d0%bc/edate/2025-08-22
+URL:https://festteam.bg/eventer/martin-garrix-%d0%b0%d1%80%d0%b5%d0%bd%d0%
+ b0-%d1%81%d0%be%d1%84%d0%b8%d1%8f-%d0%ba%d0%be%d0%bb%d0%be%d0%b4%d1%80%d1
+ %83%d0%bc/edate/2025-08-22
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:MTBot - https://bilet.bg/bg/cart/running-free-festival-eviii-5
  762
 DTEND:20250829T130000
-DTSTAMP:20250609T144237Z
+DTSTAMP:20250609T154241Z
 DTSTART:20250829T120000
 LOCATION:BiletBG
 ORGANIZER:mailto:BiletBG
@@ -430,7 +697,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:MTBot - https://bilet.bg/bg/cart/aladdin-in-concert-6245
 DTEND:20250913T193000
-DTSTAMP:20250609T144237Z
+DTSTAMP:20250609T154241Z
 DTSTART:20250913T183000
 LOCATION:BiletBG
 ORGANIZER:mailto:BiletBG
@@ -440,9 +707,22 @@ UID:aladdin-in-concert-6245
 URL:https://bilet.bg/bg/cart/aladdin-in-concert-6245
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:MTBot - https://festteam.bg/eventer/enrique-iglesias/edate/202
+ 5-09-20
+DTEND:20250920T170000
+DTSTAMP:20250609T154241Z
+DTSTART:20250920T160000
+LOCATION:FestTeamBG
+ORGANIZER:mailto:FestTeamBG
+SEQUENCE:0
+SUMMARY:Enrique Iglesias
+UID:https://festteam.bg/eventer/enrique-iglesias/edate/2025-09-20
+URL:https://festteam.bg/eventer/enrique-iglesias/edate/2025-09-20
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:MTBot - https://bilet.bg/bg/cart/noapology-live-6200
 DTEND:20250920T210000
-DTSTAMP:20250609T144237Z
+DTSTAMP:20250609T154241Z
 DTSTART:20250920T200000
 LOCATION:BiletBG
 ORGANIZER:mailto:BiletBG
@@ -455,7 +735,7 @@ BEGIN:VEVENT
 DESCRIPTION:MTBot - https://bilet.bg/bg/cart/dj-krush-at-malkata-tekila-so
  fia-25092025-6293
 DTEND:20250925T220000
-DTSTAMP:20250609T144237Z
+DTSTAMP:20250609T154241Z
 DTSTART:20250925T210000
 LOCATION:BiletBG
 ORGANIZER:mailto:BiletBG
@@ -465,10 +745,64 @@ UID:dj-krush-at-malkata-tekila-sofia-25092025-6293
 URL:https://bilet.bg/bg/cart/dj-krush-at-malkata-tekila-sofia-25092025-6293
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:MTBot - https://festteam.bg/eventer/smash-into-pieces-city-sta
+ ge/edate/2025-09-27
+DTEND:20250927T200000
+DTSTAMP:20250609T154241Z
+DTSTART:20250927T190000
+LOCATION:FestTeamBG
+ORGANIZER:mailto:FestTeamBG
+SEQUENCE:0
+SUMMARY:Smash Into Pieces @ City Stage
+UID:https://festteam.bg/eventer/smash-into-pieces-city-stage/edate/2025-09
+ -27
+URL:https://festteam.bg/eventer/smash-into-pieces-city-stage/edate/2025-09
+ -27
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://festteam.bg/eventer/robbie-williams/edate/2025
+ -09-28
+DTEND:20250928T170000
+DTSTAMP:20250609T154241Z
+DTSTART:20250928T160000
+LOCATION:FestTeamBG
+ORGANIZER:mailto:FestTeamBG
+SEQUENCE:0
+SUMMARY:Robbie Williams
+UID:https://festteam.bg/eventer/robbie-williams/edate/2025-09-28
+URL:https://festteam.bg/eventer/robbie-williams/edate/2025-09-28
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://festteam.bg/eventer/tomm%c2%a5-eah-joy-station
+ /edate/2025-09-30
+DTEND:20250930T200000
+DTSTAMP:20250609T154241Z
+DTSTART:20250930T190000
+LOCATION:FestTeamBG
+ORGANIZER:mailto:FestTeamBG
+SEQUENCE:0
+SUMMARY:TOMM¥ €A$H @ Joy Station
+UID:https://festteam.bg/eventer/tomm%c2%a5-eah-joy-station/edate/2025-09-30
+URL:https://festteam.bg/eventer/tomm%c2%a5-eah-joy-station/edate/2025-09-30
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://festteam.bg/eventer/preoccupations-stroeja/eda
+ te/2025-09-30
+DTEND:20250930T210000
+DTSTAMP:20250609T154241Z
+DTSTART:20250930T200000
+LOCATION:FestTeamBG
+ORGANIZER:mailto:FestTeamBG
+SEQUENCE:0
+SUMMARY:Preoccupations @ Stroeja
+UID:https://festteam.bg/eventer/preoccupations-stroeja/edate/2025-09-30
+URL:https://festteam.bg/eventer/preoccupations-stroeja/edate/2025-09-30
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:MTBot - https://bilet.bg/bg/cart/alisa-v-stranata-na-cudesata-
  baleten-spektakiel-6000
 DTEND:20251005T183000
-DTSTAMP:20250609T144237Z
+DTSTAMP:20250609T154241Z
 DTSTART:20251005T173000
 LOCATION:BiletBG
 ORGANIZER:mailto:BiletBG
@@ -481,7 +815,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:MTBot - https://bilet.bg/bg/cart/motorpsycho-live-in-sofia-6294
 DTEND:20251009T210000
-DTSTAMP:20250609T144237Z
+DTSTAMP:20250609T154241Z
 DTSTART:20251009T200000
 LOCATION:BiletBG
 ORGANIZER:mailto:BiletBG
@@ -493,7 +827,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:MTBot - https://bilet.bg/bg/cart/the-wants-live-in-sofia-6292
 DTEND:20251009T213000
-DTSTAMP:20250609T144237Z
+DTSTAMP:20250609T154241Z
 DTSTART:20251009T203000
 LOCATION:BiletBG
 ORGANIZER:mailto:BiletBG
@@ -505,7 +839,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:MTBot - https://bilet.bg/bg/cart/kosheen-6432
 DTEND:20251011T203000
-DTSTAMP:20250609T144237Z
+DTSTAMP:20250609T154241Z
 DTSTART:20251011T193000
 LOCATION:BiletBG
 ORGANIZER:mailto:BiletBG
@@ -517,7 +851,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:MTBot - https://bilet.bg/bg/cart/naxatras-live-in-sofia-6426
 DTEND:20251016T210000
-DTSTAMP:20250609T144237Z
+DTSTAMP:20250609T154241Z
 DTSTART:20251016T200000
 LOCATION:BiletBG
 ORGANIZER:mailto:BiletBG
@@ -530,7 +864,7 @@ BEGIN:VEVENT
 DESCRIPTION:MTBot - https://bilet.bg/bg/cart/baest-dk-certain-demise-tba-6
  384
 DTEND:20251017T210000
-DTSTAMP:20250609T144237Z
+DTSTAMP:20250609T154241Z
 DTSTART:20251017T200000
 LOCATION:BiletBG
 ORGANIZER:mailto:BiletBG
@@ -543,7 +877,7 @@ BEGIN:VEVENT
 DESCRIPTION:MTBot - https://bilet.bg/bg/cart/shame-uk-live-at-club-mixtape
  -5-6395
 DTEND:20251024T210000
-DTSTAMP:20250609T144237Z
+DTSTAMP:20250609T154241Z
 DTSTART:20251024T200000
 LOCATION:BiletBG
 ORGANIZER:mailto:BiletBG
@@ -553,10 +887,23 @@ UID:shame-uk-live-at-club-mixtape-5-6395
 URL:https://bilet.bg/bg/cart/shame-uk-live-at-club-mixtape-5-6395
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:MTBot - https://festteam.bg/eventer/goldlink-fomo/edate/2025-1
+ 0-30
+DTEND:20251030T210000
+DTSTAMP:20250609T154241Z
+DTSTART:20251030T200000
+LOCATION:FestTeamBG
+ORGANIZER:mailto:FestTeamBG
+SEQUENCE:0
+SUMMARY:GoldLink @ FOMO
+UID:https://festteam.bg/eventer/goldlink-fomo/edate/2025-10-30
+URL:https://festteam.bg/eventer/goldlink-fomo/edate/2025-10-30
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:MTBot - https://bilet.bg/bg/cart/dani-j-live-in-concert-in-sof
  ia-20-6098
 DTEND:20251101T220000
-DTSTAMP:20250609T144237Z
+DTSTAMP:20250609T154241Z
 DTSTART:20251101T210000
 LOCATION:BiletBG
 ORGANIZER:mailto:BiletBG
@@ -566,9 +913,24 @@ UID:dani-j-live-in-concert-in-sofia-20-6098
 URL:https://bilet.bg/bg/cart/dani-j-live-in-concert-in-sofia-20-6098
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:MTBot - https://festteam.bg/eventer/the-halo-effect-pirotska-5
+ -event-center/edate/2025-11-21
+DTEND:20251121T203000
+DTSTAMP:20250609T154241Z
+DTSTART:20251121T193000
+LOCATION:FestTeamBG
+ORGANIZER:mailto:FestTeamBG
+SEQUENCE:0
+SUMMARY:The Halo Effect @ Pirotska 5 Event Center
+UID:https://festteam.bg/eventer/the-halo-effect-pirotska-5-event-center/ed
+ ate/2025-11-21
+URL:https://festteam.bg/eventer/the-halo-effect-pirotska-5-event-center/ed
+ ate/2025-11-21
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:MTBot - https://bilet.bg/bg/cart/sons-live-in-sofia-6111
 DTEND:20251127T210000
-DTSTAMP:20250609T144237Z
+DTSTAMP:20250609T154241Z
 DTSTART:20251127T200000
 LOCATION:BiletBG
 ORGANIZER:mailto:BiletBG
@@ -581,7 +943,7 @@ BEGIN:VEVENT
 DESCRIPTION:MTBot - https://bilet.bg/bg/cart/new-model-army-live-in-sofia-
  4851
 DTEND:20251130T210000
-DTSTAMP:20250609T144237Z
+DTSTAMP:20250609T154241Z
 DTSTART:20251130T200000
 LOCATION:BiletBG
 ORGANIZER:mailto:BiletBG
@@ -591,10 +953,68 @@ UID:new-model-army-live-in-sofia-4851
 URL:https://bilet.bg/bg/cart/new-model-army-live-in-sofia-4851
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:MTBot - https://festteam.bg/eventer/till-lindemann-meine-welt-
+ tour-2025-08-12-%d1%81%d0%be%d1%84%d0%b8%d1%8f/edate/2025-12-08
+DTEND:20251208T200000
+DTSTAMP:20250609T154241Z
+DTSTART:20251208T190000
+LOCATION:FestTeamBG
+ORGANIZER:mailto:FestTeamBG
+SEQUENCE:0
+SUMMARY:TILL LINDEMANN | MEINE WELT Tour 2025 | 08.12\, София
+UID:https://festteam.bg/eventer/till-lindemann-meine-welt-tour-2025-08-12-
+ %d1%81%d0%be%d1%84%d0%b8%d1%8f/edate/2025-12-08
+URL:https://festteam.bg/eventer/till-lindemann-meine-welt-tour-2025-08-12-
+ %d1%81%d0%be%d1%84%d0%b8%d1%8f/edate/2025-12-08
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://festteam.bg/eventer/rod-stewart-arena-8888-11-
+ 12-2025/edate/2025-12-11
+DTEND:20251211T203000
+DTSTAMP:20250609T154241Z
+DTSTART:20251211T193000
+LOCATION:FestTeamBG
+ORGANIZER:mailto:FestTeamBG
+SEQUENCE:0
+SUMMARY:ROD STEWART @ Arena 8888\, 11.12.2025
+UID:https://festteam.bg/eventer/rod-stewart-arena-8888-11-12-2025/edate/20
+ 25-12-11
+URL:https://festteam.bg/eventer/rod-stewart-arena-8888-11-12-2025/edate/20
+ 25-12-11
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://festteam.bg/eventer/marcus-martinus-city-stage
+ /edate/2026-02-02
+DTEND:20260202T200000
+DTSTAMP:20250609T154241Z
+DTSTART:20260202T190000
+LOCATION:FestTeamBG
+ORGANIZER:mailto:FestTeamBG
+SEQUENCE:0
+SUMMARY:Marcus &#038\; Martinus @ City Stage
+UID:https://festteam.bg/eventer/marcus-martinus-city-stage/edate/2026-02-02
+URL:https://festteam.bg/eventer/marcus-martinus-city-stage/edate/2026-02-02
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://festteam.bg/eventer/eros-ramazzotti-arena-8888
+ -11-12-2025/edate/2026-04-24
+DTEND:20260424T200000
+DTSTAMP:20250609T154241Z
+DTSTART:20260424T190000
+LOCATION:FestTeamBG
+ORGANIZER:mailto:FestTeamBG
+SEQUENCE:0
+SUMMARY:Eros Ramazzotti @ Арена 8888\, 24.04.2026
+UID:https://festteam.bg/eventer/eros-ramazzotti-arena-8888-11-12-2025/edat
+ e/2026-04-24
+URL:https://festteam.bg/eventer/eros-ramazzotti-arena-8888-11-12-2025/edat
+ e/2026-04-24
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:MTBot - https://bilet.bg/bg/cart/julien-dassin-perform-family-
  hits-5907
 DTEND:20260604T210000
-DTSTAMP:20250609T144237Z
+DTSTAMP:20250609T154241Z
 DTSTART:20260604T200000
 LOCATION:BiletBG
 ORGANIZER:mailto:BiletBG
@@ -607,7 +1027,7 @@ BEGIN:VEVENT
 DESCRIPTION:MTBot - https://bilet.bg/bg/cart/lete-indien-v-sofiia-dassin-m
  eet-toto-cutugno-5310
 DTEND:20260605T210000
-DTSTAMP:20250609T144237Z
+DTSTAMP:20250609T154241Z
 DTSTART:20260605T200000
 LOCATION:BiletBG
 ORGANIZER:mailto:BiletBG
@@ -621,7 +1041,7 @@ BEGIN:VEVENT
 DESCRIPTION:MTBot - https://bilet.bg/bg/cart/julien-dassin-perform-family-
  hits-5673
 DTEND:20260607T210000
-DTSTAMP:20250609T144237Z
+DTSTAMP:20250609T154241Z
 DTSTART:20260607T200000
 LOCATION:BiletBG
 ORGANIZER:mailto:BiletBG
