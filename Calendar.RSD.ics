@@ -1,4 +1,801 @@
 BEGIN:VCALENDAR
 PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://new.gigstix.com/event/bojana-vunturisevic-novi
+ -sad-14-mart-2025/
+DTEND:20250314T130000
+DTSTAMP:20250609T132253Z
+DTSTART:20250314T120000
+LOCATION:new.gigstix.com
+ORGANIZER:mailto:new.gigstix.com
+SEQUENCE:0
+SUMMARY:Bojana Vunturišević
+UID:https://new.gigstix.com/event/bojana-vunturisevic-novi-sad-14-mart-202
+ 5/
+URL:https://new.gigstix.com/event/bojana-vunturisevic-novi-sad-14-mart-202
+ 5/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://new.gigstix.com/event/tanja-savic-novi-sad-12-
+ april-2025/
+DTEND:20250412T130000
+DTSTAMP:20250609T132253Z
+DTSTART:20250412T120000
+LOCATION:new.gigstix.com
+ORGANIZER:mailto:new.gigstix.com
+SEQUENCE:0
+SUMMARY:Tanja Savić
+UID:https://new.gigstix.com/event/tanja-savic-novi-sad-12-april-2025/
+URL:https://new.gigstix.com/event/tanja-savic-novi-sad-12-april-2025/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://new.gigstix.com/event/familija-novi-sad-22-maj
+ -2025/
+DTEND:20250522T130000
+DTSTAMP:20250609T132253Z
+DTSTART:20250522T120000
+LOCATION:new.gigstix.com
+ORGANIZER:mailto:new.gigstix.com
+SEQUENCE:0
+SUMMARY:Familija
+UID:https://new.gigstix.com/event/familija-novi-sad-22-maj-2025/
+URL:https://new.gigstix.com/event/familija-novi-sad-22-maj-2025/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://new.gigstix.com/event/kraftfest-novi-sad-24-ma
+ j-2025/
+DTEND:20250524T130000
+DTSTAMP:20250609T132253Z
+DTSTART:20250524T120000
+LOCATION:new.gigstix.com
+ORGANIZER:mailto:new.gigstix.com
+SEQUENCE:0
+SUMMARY:KraftFest
+UID:https://new.gigstix.com/event/kraftfest-novi-sad-24-maj-2025/
+URL:https://new.gigstix.com/event/kraftfest-novi-sad-24-maj-2025/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://new.gigstix.com/event/gin-cheese-fest-sunset-p
+ icnic-cenej-maj-2025/
+DTEND:20250524T130000
+DTSTAMP:20250609T132253Z
+DTSTART:20250524T120000
+LOCATION:new.gigstix.com
+ORGANIZER:mailto:new.gigstix.com
+SEQUENCE:0
+SUMMARY:Gin & Cheese fest\, Sunset & Picnic
+UID:https://new.gigstix.com/event/gin-cheese-fest-sunset-picnic-cenej-maj-
+ 2025/
+URL:https://new.gigstix.com/event/gin-cheese-fest-sunset-picnic-cenej-maj-
+ 2025/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://new.gigstix.com/event/stereo-banana-novi-sad-2
+ 4-maj-2025/
+DTEND:20250524T130000
+DTSTAMP:20250609T132253Z
+DTSTART:20250524T120000
+LOCATION:new.gigstix.com
+ORGANIZER:mailto:new.gigstix.com
+SEQUENCE:0
+SUMMARY:Stereo Banana
+UID:https://new.gigstix.com/event/stereo-banana-novi-sad-24-maj-2025/
+URL:https://new.gigstix.com/event/stereo-banana-novi-sad-24-maj-2025/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://new.gigstix.com/event/kluboslavija-kragujevac-
+ 25-maj-2025/
+DTEND:20250525T130000
+DTSTAMP:20250609T132253Z
+DTSTART:20250525T120000
+LOCATION:new.gigstix.com
+ORGANIZER:mailto:new.gigstix.com
+SEQUENCE:0
+SUMMARY:Kluboslavija
+UID:https://new.gigstix.com/event/kluboslavija-kragujevac-25-maj-2025/
+URL:https://new.gigstix.com/event/kluboslavija-kragujevac-25-maj-2025/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://new.gigstix.com/event/divlje-jagode-novi-sad-3
+ 1-maj-2025/
+DTEND:20250531T130000
+DTSTAMP:20250609T132253Z
+DTSTART:20250531T120000
+LOCATION:new.gigstix.com
+ORGANIZER:mailto:new.gigstix.com
+SEQUENCE:0
+SUMMARY:Divlje jagode
+UID:https://new.gigstix.com/event/divlje-jagode-novi-sad-31-maj-2025/
+URL:https://new.gigstix.com/event/divlje-jagode-novi-sad-31-maj-2025/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://new.gigstix.com/event/bigru-i-paja-kratak-beog
+ rad-12-jun-2025/
+DTEND:20250612T130000
+DTSTAMP:20250609T132253Z
+DTSTART:20250612T120000
+LOCATION:new.gigstix.com
+ORGANIZER:mailto:new.gigstix.com
+SEQUENCE:0
+SUMMARY:Bigru i Paja Kratak
+UID:https://new.gigstix.com/event/bigru-i-paja-kratak-beograd-12-jun-2025/
+URL:https://new.gigstix.com/event/bigru-i-paja-kratak-beograd-12-jun-2025/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://new.gigstix.com/event/zisko-beograd-13-jun-202
+ 5/
+DTEND:20250613T130000
+DTSTAMP:20250609T132253Z
+DTSTART:20250613T120000
+LOCATION:new.gigstix.com
+ORGANIZER:mailto:new.gigstix.com
+SEQUENCE:0
+SUMMARY:Zisko
+UID:https://new.gigstix.com/event/zisko-beograd-13-jun-2025/
+URL:https://new.gigstix.com/event/zisko-beograd-13-jun-2025/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://new.gigstix.com/event/neke-nove-klinke-novi-sa
+ d-13-jun-2025/
+DTEND:20250613T130000
+DTSTAMP:20250609T132253Z
+DTSTART:20250613T120000
+LOCATION:new.gigstix.com
+ORGANIZER:mailto:new.gigstix.com
+SEQUENCE:0
+SUMMARY:Neke nove klinke
+UID:https://new.gigstix.com/event/neke-nove-klinke-novi-sad-13-jun-2025/
+URL:https://new.gigstix.com/event/neke-nove-klinke-novi-sad-13-jun-2025/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://new.gigstix.com/event/2000late-beograd-13-jun-
+ 2025/
+DTEND:20250613T130000
+DTSTAMP:20250609T132253Z
+DTSTART:20250613T120000
+LOCATION:new.gigstix.com
+ORGANIZER:mailto:new.gigstix.com
+SEQUENCE:0
+SUMMARY:2000Late
+UID:https://new.gigstix.com/event/2000late-beograd-13-jun-2025/
+URL:https://new.gigstix.com/event/2000late-beograd-13-jun-2025/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://new.gigstix.com/event/ritmik-acid-tower-beogra
+ d-13-jun-2025/
+DTEND:20250613T130000
+DTSTAMP:20250609T132253Z
+DTSTART:20250613T120000
+LOCATION:new.gigstix.com
+ORGANIZER:mailto:new.gigstix.com
+SEQUENCE:0
+SUMMARY:Ritmik Acid Tower
+UID:https://new.gigstix.com/event/ritmik-acid-tower-beograd-13-jun-2025/
+URL:https://new.gigstix.com/event/ritmik-acid-tower-beograd-13-jun-2025/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://new.gigstix.com/event/zeljko-vasic-novi-sad-13
+ -jun-2025/
+DTEND:20250613T130000
+DTSTAMP:20250609T132253Z
+DTSTART:20250613T120000
+LOCATION:new.gigstix.com
+ORGANIZER:mailto:new.gigstix.com
+SEQUENCE:0
+SUMMARY:Željko Vasić
+UID:https://new.gigstix.com/event/zeljko-vasic-novi-sad-13-jun-2025/
+URL:https://new.gigstix.com/event/zeljko-vasic-novi-sad-13-jun-2025/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://new.gigstix.com/event/rene-wise-beograd-13-jun
+ -2025/
+DTEND:20250613T130000
+DTSTAMP:20250609T132253Z
+DTSTART:20250613T120000
+LOCATION:new.gigstix.com
+ORGANIZER:mailto:new.gigstix.com
+SEQUENCE:0
+SUMMARY:Rene Wise
+UID:https://new.gigstix.com/event/rene-wise-beograd-13-jun-2025/
+URL:https://new.gigstix.com/event/rene-wise-beograd-13-jun-2025/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://new.gigstix.com/event/hipigram-party-beograd-1
+ 4-jun-2025/
+DTEND:20250614T130000
+DTSTAMP:20250609T132253Z
+DTSTART:20250614T120000
+LOCATION:new.gigstix.com
+ORGANIZER:mailto:new.gigstix.com
+SEQUENCE:0
+SUMMARY:Hipigram party
+UID:https://new.gigstix.com/event/hipigram-party-beograd-14-jun-2025/
+URL:https://new.gigstix.com/event/hipigram-party-beograd-14-jun-2025/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://new.gigstix.com/event/tap-011-beograd-14-jun-2
+ 025/
+DTEND:20250614T130000
+DTSTAMP:20250609T132253Z
+DTSTART:20250614T120000
+LOCATION:new.gigstix.com
+ORGANIZER:mailto:new.gigstix.com
+SEQUENCE:0
+SUMMARY:Tap 011
+UID:https://new.gigstix.com/event/tap-011-beograd-14-jun-2025/
+URL:https://new.gigstix.com/event/tap-011-beograd-14-jun-2025/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://new.gigstix.com/event/kluboslavija-novi-sad-14
+ -jun-2025/
+DTEND:20250614T130000
+DTSTAMP:20250609T132253Z
+DTSTART:20250614T120000
+LOCATION:new.gigstix.com
+ORGANIZER:mailto:new.gigstix.com
+SEQUENCE:0
+SUMMARY:Kluboslavija
+UID:https://new.gigstix.com/event/kluboslavija-novi-sad-14-jun-2025/
+URL:https://new.gigstix.com/event/kluboslavija-novi-sad-14-jun-2025/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://new.gigstix.com/event/exotica-beograd-14-jun-2
+ 025/
+DTEND:20250614T130000
+DTSTAMP:20250609T132253Z
+DTSTART:20250614T120000
+LOCATION:new.gigstix.com
+ORGANIZER:mailto:new.gigstix.com
+SEQUENCE:0
+SUMMARY:Exotica
+UID:https://new.gigstix.com/event/exotica-beograd-14-jun-2025/
+URL:https://new.gigstix.com/event/exotica-beograd-14-jun-2025/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://new.gigstix.com/event/matias-aguayo-beograd-14
+ -jun-2025/
+DTEND:20250614T130000
+DTSTAMP:20250609T132253Z
+DTSTART:20250614T120000
+LOCATION:new.gigstix.com
+ORGANIZER:mailto:new.gigstix.com
+SEQUENCE:0
+SUMMARY:Matias Aguayo
+UID:https://new.gigstix.com/event/matias-aguayo-beograd-14-jun-2025/
+URL:https://new.gigstix.com/event/matias-aguayo-beograd-14-jun-2025/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://new.gigstix.com/event/incantation-beograd-14-j
+ un-2025/
+DTEND:20250614T130000
+DTSTAMP:20250609T132253Z
+DTSTART:20250614T120000
+LOCATION:new.gigstix.com
+ORGANIZER:mailto:new.gigstix.com
+SEQUENCE:0
+SUMMARY:INCANTATION
+UID:https://new.gigstix.com/event/incantation-beograd-14-jun-2025/
+URL:https://new.gigstix.com/event/incantation-beograd-14-jun-2025/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://new.gigstix.com/event/mizar-nis-14-jun-2025/
+DTEND:20250614T130000
+DTSTAMP:20250609T132253Z
+DTSTART:20250614T120000
+LOCATION:new.gigstix.com
+ORGANIZER:mailto:new.gigstix.com
+SEQUENCE:0
+SUMMARY:Mizar
+UID:https://new.gigstix.com/event/mizar-nis-14-jun-2025/
+URL:https://new.gigstix.com/event/mizar-nis-14-jun-2025/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://new.gigstix.com/event/bigru-i-paja-kratak-beog
+ rad-15-jun-2025/
+DTEND:20250615T130000
+DTSTAMP:20250609T132253Z
+DTSTART:20250615T120000
+LOCATION:new.gigstix.com
+ORGANIZER:mailto:new.gigstix.com
+SEQUENCE:0
+SUMMARY:Bigru i Paja Kratak
+UID:https://new.gigstix.com/event/bigru-i-paja-kratak-beograd-15-jun-2025/
+URL:https://new.gigstix.com/event/bigru-i-paja-kratak-beograd-15-jun-2025/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://new.gigstix.com/event/kluboslavija-kragujevac-
+ 15-jun-2025/
+DTEND:20250615T130000
+DTSTAMP:20250609T132253Z
+DTSTART:20250615T120000
+LOCATION:new.gigstix.com
+ORGANIZER:mailto:new.gigstix.com
+SEQUENCE:0
+SUMMARY:Kluboslavija
+UID:https://new.gigstix.com/event/kluboslavija-kragujevac-15-jun-2025/
+URL:https://new.gigstix.com/event/kluboslavija-kragujevac-15-jun-2025/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://new.gigstix.com/event/exodus-novi-sad-16-jun-2
+ 025/
+DTEND:20250616T130000
+DTSTAMP:20250609T132253Z
+DTSTART:20250616T120000
+LOCATION:new.gigstix.com
+ORGANIZER:mailto:new.gigstix.com
+SEQUENCE:0
+SUMMARY:Exodus
+UID:https://new.gigstix.com/event/exodus-novi-sad-16-jun-2025/
+URL:https://new.gigstix.com/event/exodus-novi-sad-16-jun-2025/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://new.gigstix.com/event/play-dance-academy-novi-
+ sad-18-jun-2025/
+DTEND:20250618T130000
+DTSTAMP:20250609T132253Z
+DTSTART:20250618T120000
+LOCATION:new.gigstix.com
+ORGANIZER:mailto:new.gigstix.com
+SEQUENCE:0
+SUMMARY:Play dance academy
+UID:https://new.gigstix.com/event/play-dance-academy-novi-sad-18-jun-2025/
+URL:https://new.gigstix.com/event/play-dance-academy-novi-sad-18-jun-2025/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://new.gigstix.com/event/jelena-jovovic-quintet-n
+ ovi-sad-19-jun-2025/
+DTEND:20250619T130000
+DTSTAMP:20250609T132253Z
+DTSTART:20250619T120000
+LOCATION:new.gigstix.com
+ORGANIZER:mailto:new.gigstix.com
+SEQUENCE:0
+SUMMARY:Jelena Jovović Quintet
+UID:https://new.gigstix.com/event/jelena-jovovic-quintet-novi-sad-19-jun-2
+ 025/
+URL:https://new.gigstix.com/event/jelena-jovovic-quintet-novi-sad-19-jun-2
+ 025/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://new.gigstix.com/event/illusions-open-air-weeke
+ nd-beograd-jun-2025/
+DTEND:20250620T130000
+DTSTAMP:20250609T132253Z
+DTSTART:20250620T120000
+LOCATION:new.gigstix.com
+ORGANIZER:mailto:new.gigstix.com
+SEQUENCE:0
+SUMMARY:Illusions Open Air Weekend
+UID:https://new.gigstix.com/event/illusions-open-air-weekend-beograd-jun-2
+ 025/
+URL:https://new.gigstix.com/event/illusions-open-air-weekend-beograd-jun-2
+ 025/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://new.gigstix.com/event/kluboslavija-beograd-20-
+ jun-2025/
+DTEND:20250620T130000
+DTSTAMP:20250609T132253Z
+DTSTART:20250620T120000
+LOCATION:new.gigstix.com
+ORGANIZER:mailto:new.gigstix.com
+SEQUENCE:0
+SUMMARY:Kluboslavija
+UID:https://new.gigstix.com/event/kluboslavija-beograd-20-jun-2025/
+URL:https://new.gigstix.com/event/kluboslavija-beograd-20-jun-2025/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://new.gigstix.com/event/zoster-nis-21-jun-2025/
+DTEND:20250621T130000
+DTSTAMP:20250609T132253Z
+DTSTART:20250621T120000
+LOCATION:new.gigstix.com
+ORGANIZER:mailto:new.gigstix.com
+SEQUENCE:0
+SUMMARY:Zoster
+UID:https://new.gigstix.com/event/zoster-nis-21-jun-2025/
+URL:https://new.gigstix.com/event/zoster-nis-21-jun-2025/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://new.gigstix.com/event/indoor-hardcore-beograd-
+ 21-jun-2025/
+DTEND:20250621T130000
+DTSTAMP:20250609T132253Z
+DTSTART:20250621T120000
+LOCATION:new.gigstix.com
+ORGANIZER:mailto:new.gigstix.com
+SEQUENCE:0
+SUMMARY:INDOOR HARDCORE
+UID:https://new.gigstix.com/event/indoor-hardcore-beograd-21-jun-2025/
+URL:https://new.gigstix.com/event/indoor-hardcore-beograd-21-jun-2025/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://new.gigstix.com/event/rumble-in-the-jungle-nov
+ i-sad-21-jun-2025/
+DTEND:20250621T130000
+DTSTAMP:20250609T132253Z
+DTSTART:20250621T120000
+LOCATION:new.gigstix.com
+ORGANIZER:mailto:new.gigstix.com
+SEQUENCE:0
+SUMMARY:Rumble in the Jungle
+UID:https://new.gigstix.com/event/rumble-in-the-jungle-novi-sad-21-jun-202
+ 5/
+URL:https://new.gigstix.com/event/rumble-in-the-jungle-novi-sad-21-jun-202
+ 5/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://new.gigstix.com/event/darko-karlecik-novi-sad-
+ 26-jun-2025/
+DTEND:20250626T130000
+DTSTAMP:20250609T132253Z
+DTSTART:20250626T120000
+LOCATION:new.gigstix.com
+ORGANIZER:mailto:new.gigstix.com
+SEQUENCE:0
+SUMMARY:Darko Karlečik
+UID:https://new.gigstix.com/event/darko-karlecik-novi-sad-26-jun-2025/
+URL:https://new.gigstix.com/event/darko-karlecik-novi-sad-26-jun-2025/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://new.gigstix.com/event/nicola-cruz-beograd-27-j
+ un-2025/
+DTEND:20250627T130000
+DTSTAMP:20250609T132253Z
+DTSTART:20250627T120000
+LOCATION:new.gigstix.com
+ORGANIZER:mailto:new.gigstix.com
+SEQUENCE:0
+SUMMARY:Nicola Cruz
+UID:https://new.gigstix.com/event/nicola-cruz-beograd-27-jun-2025/
+URL:https://new.gigstix.com/event/nicola-cruz-beograd-27-jun-2025/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://new.gigstix.com/event/afterfive-invites-escapi
+ sm-novi-sad-28-jun-2025/
+DTEND:20250628T130000
+DTSTAMP:20250609T132253Z
+DTSTART:20250628T120000
+LOCATION:new.gigstix.com
+ORGANIZER:mailto:new.gigstix.com
+SEQUENCE:0
+SUMMARY:AFTERFIVE invites Escapism
+UID:https://new.gigstix.com/event/afterfive-invites-escapism-novi-sad-28-j
+ un-2025/
+URL:https://new.gigstix.com/event/afterfive-invites-escapism-novi-sad-28-j
+ un-2025/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://new.gigstix.com/event/dvica-sole-beograd-28-ju
+ n-2025/
+DTEND:20250628T130000
+DTSTAMP:20250609T132253Z
+DTSTART:20250628T120000
+LOCATION:new.gigstix.com
+ORGANIZER:mailto:new.gigstix.com
+SEQUENCE:0
+SUMMARY:Dvica: Sole
+UID:https://new.gigstix.com/event/dvica-sole-beograd-28-jun-2025/
+URL:https://new.gigstix.com/event/dvica-sole-beograd-28-jun-2025/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://new.gigstix.com/event/winds-of-the-void-vol-ii
+ -kovacica-28-jun-2025/
+DTEND:20250628T130000
+DTSTAMP:20250609T132253Z
+DTSTART:20250628T120000
+LOCATION:new.gigstix.com
+ORGANIZER:mailto:new.gigstix.com
+SEQUENCE:0
+SUMMARY:Winds of The Void Vol.II
+UID:https://new.gigstix.com/event/winds-of-the-void-vol-ii-kovacica-28-jun
+ -2025/
+URL:https://new.gigstix.com/event/winds-of-the-void-vol-ii-kovacica-28-jun
+ -2025/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://new.gigstix.com/event/w-a-s-p-beograd-11-jul-2
+ 025/
+DTEND:20250711T130000
+DTSTAMP:20250609T132253Z
+DTSTART:20250711T120000
+LOCATION:new.gigstix.com
+ORGANIZER:mailto:new.gigstix.com
+SEQUENCE:0
+SUMMARY:W.A.S.P.
+UID:https://new.gigstix.com/event/w-a-s-p-beograd-11-jul-2025/
+URL:https://new.gigstix.com/event/w-a-s-p-beograd-11-jul-2025/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://new.gigstix.com/event/sunshine-cacak-19-jul-20
+ 25/
+DTEND:20250719T130000
+DTSTAMP:20250609T132253Z
+DTSTART:20250719T120000
+LOCATION:new.gigstix.com
+ORGANIZER:mailto:new.gigstix.com
+SEQUENCE:0
+SUMMARY:Sunshine
+UID:https://new.gigstix.com/event/sunshine-cacak-19-jul-2025/
+URL:https://new.gigstix.com/event/sunshine-cacak-19-jul-2025/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://new.gigstix.com/event/life-of-agony-beograd-23
+ -jul-2025/
+DTEND:20250723T130000
+DTSTAMP:20250609T132253Z
+DTSTART:20250723T120000
+LOCATION:new.gigstix.com
+ORGANIZER:mailto:new.gigstix.com
+SEQUENCE:0
+SUMMARY:Life of agony
+UID:https://new.gigstix.com/event/life-of-agony-beograd-23-jul-2025/
+URL:https://new.gigstix.com/event/life-of-agony-beograd-23-jul-2025/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://new.gigstix.com/event/the-sisters-of-mercy-beo
+ grad-24-jul-2025/
+DTEND:20250724T130000
+DTSTAMP:20250609T132253Z
+DTSTART:20250724T120000
+LOCATION:new.gigstix.com
+ORGANIZER:mailto:new.gigstix.com
+SEQUENCE:0
+SUMMARY:The Sisters of Mercy
+UID:https://new.gigstix.com/event/the-sisters-of-mercy-beograd-24-jul-2025/
+URL:https://new.gigstix.com/event/the-sisters-of-mercy-beograd-24-jul-2025/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://new.gigstix.com/event/refest-wild-2025-zlatibo
+ r-jul-2025/
+DTEND:20250724T130000
+DTSTAMP:20250609T132253Z
+DTSTART:20250724T120000
+LOCATION:new.gigstix.com
+ORGANIZER:mailto:new.gigstix.com
+SEQUENCE:0
+SUMMARY:REFEST WILD 2025
+UID:https://new.gigstix.com/event/refest-wild-2025-zlatibor-jul-2025/
+URL:https://new.gigstix.com/event/refest-wild-2025-zlatibor-jul-2025/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://new.gigstix.com/event/laibach-nis-25-jul-2025/
+DTEND:20250725T130000
+DTSTAMP:20250609T132253Z
+DTSTART:20250725T120000
+LOCATION:new.gigstix.com
+ORGANIZER:mailto:new.gigstix.com
+SEQUENCE:0
+SUMMARY:Laibach
+UID:https://new.gigstix.com/event/laibach-nis-25-jul-2025/
+URL:https://new.gigstix.com/event/laibach-nis-25-jul-2025/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://new.gigstix.com/event/static-x-beograd-26-jul-
+ 2025/
+DTEND:20250726T130000
+DTSTAMP:20250609T132253Z
+DTSTART:20250726T120000
+LOCATION:new.gigstix.com
+ORGANIZER:mailto:new.gigstix.com
+SEQUENCE:0
+SUMMARY:STATIC-X
+UID:https://new.gigstix.com/event/static-x-beograd-26-jul-2025/
+URL:https://new.gigstix.com/event/static-x-beograd-26-jul-2025/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://new.gigstix.com/event/oranssi-pazuzu-novi-sad-
+ 29-jul-2025/
+DTEND:20250729T130000
+DTSTAMP:20250609T132253Z
+DTSTART:20250729T120000
+LOCATION:new.gigstix.com
+ORGANIZER:mailto:new.gigstix.com
+SEQUENCE:0
+SUMMARY:Oranssi Pazuzu
+UID:https://new.gigstix.com/event/oranssi-pazuzu-novi-sad-29-jul-2025/
+URL:https://new.gigstix.com/event/oranssi-pazuzu-novi-sad-29-jul-2025/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://new.gigstix.com/event/soen-novi-sad-30-jul-202
+ 5/
+DTEND:20250730T130000
+DTSTAMP:20250609T132253Z
+DTSTART:20250730T120000
+LOCATION:new.gigstix.com
+ORGANIZER:mailto:new.gigstix.com
+SEQUENCE:0
+SUMMARY:Soen
+UID:https://new.gigstix.com/event/soen-novi-sad-30-jul-2025/
+URL:https://new.gigstix.com/event/soen-novi-sad-30-jul-2025/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://new.gigstix.com/event/black-flag-beograd-12-av
+ gust-2025/
+DTEND:20250812T130000
+DTSTAMP:20250609T132253Z
+DTSTART:20250812T120000
+LOCATION:new.gigstix.com
+ORGANIZER:mailto:new.gigstix.com
+SEQUENCE:0
+SUMMARY:Black Flag
+UID:https://new.gigstix.com/event/black-flag-beograd-12-avgust-2025/
+URL:https://new.gigstix.com/event/black-flag-beograd-12-avgust-2025/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://new.gigstix.com/event/tribute-piknik-park-link
+ in-park-beograd-15-avgust-2025/
+DTEND:20250815T130000
+DTSTAMP:20250609T132253Z
+DTSTART:20250815T120000
+LOCATION:new.gigstix.com
+ORGANIZER:mailto:new.gigstix.com
+SEQUENCE:0
+SUMMARY:Tribute Piknik Park – Linkin Park
+UID:https://new.gigstix.com/event/tribute-piknik-park-linkin-park-beograd-
+ 15-avgust-2025/
+URL:https://new.gigstix.com/event/tribute-piknik-park-linkin-park-beograd-
+ 15-avgust-2025/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://new.gigstix.com/event/nick-cave-skopje-22-avgu
+ st-2025/
+DTEND:20250822T130000
+DTSTAMP:20250609T132253Z
+DTSTART:20250822T120000
+LOCATION:new.gigstix.com
+ORGANIZER:mailto:new.gigstix.com
+SEQUENCE:0
+SUMMARY:Nick Cave
+UID:https://new.gigstix.com/event/nick-cave-skopje-22-avgust-2025/
+URL:https://new.gigstix.com/event/nick-cave-skopje-22-avgust-2025/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://new.gigstix.com/event/blind-guardian-beograd-2
+ 4-avgust-2025/
+DTEND:20250824T130000
+DTSTAMP:20250609T132253Z
+DTSTART:20250824T120000
+LOCATION:new.gigstix.com
+ORGANIZER:mailto:new.gigstix.com
+SEQUENCE:0
+SUMMARY:Blind guardian
+UID:https://new.gigstix.com/event/blind-guardian-beograd-24-avgust-2025/
+URL:https://new.gigstix.com/event/blind-guardian-beograd-24-avgust-2025/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://new.gigstix.com/event/hellhammer-festival-open
+ -air-2025-srbobran-avgust-2025/
+DTEND:20250829T130000
+DTSTAMP:20250609T132253Z
+DTSTART:20250829T120000
+LOCATION:new.gigstix.com
+ORGANIZER:mailto:new.gigstix.com
+SEQUENCE:0
+SUMMARY:Hellhammer Festival Open Air 2025.
+UID:https://new.gigstix.com/event/hellhammer-festival-open-air-2025-srbobr
+ an-avgust-2025/
+URL:https://new.gigstix.com/event/hellhammer-festival-open-air-2025-srbobr
+ an-avgust-2025/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://new.gigstix.com/event/john-maus-beograd-11-sep
+ tembar-2025/
+DTEND:20250911T130000
+DTSTAMP:20250609T132253Z
+DTSTART:20250911T120000
+LOCATION:new.gigstix.com
+ORGANIZER:mailto:new.gigstix.com
+SEQUENCE:0
+SUMMARY:John Maus
+UID:https://new.gigstix.com/event/john-maus-beograd-11-septembar-2025/
+URL:https://new.gigstix.com/event/john-maus-beograd-11-septembar-2025/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://new.gigstix.com/event/sub-focus-beograd-12-sep
+ tembar-2025/
+DTEND:20250912T130000
+DTSTAMP:20250609T132253Z
+DTSTART:20250912T120000
+LOCATION:new.gigstix.com
+ORGANIZER:mailto:new.gigstix.com
+SEQUENCE:0
+SUMMARY:SUB FOCUS
+UID:https://new.gigstix.com/event/sub-focus-beograd-12-septembar-2025/
+URL:https://new.gigstix.com/event/sub-focus-beograd-12-septembar-2025/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://new.gigstix.com/event/marko-louis-nis-19-septe
+ mbar-2025/
+DTEND:20250919T130000
+DTSTAMP:20250609T132253Z
+DTSTART:20250919T120000
+LOCATION:new.gigstix.com
+ORGANIZER:mailto:new.gigstix.com
+SEQUENCE:0
+SUMMARY:Marko Louis
+UID:https://new.gigstix.com/event/marko-louis-nis-19-septembar-2025/
+URL:https://new.gigstix.com/event/marko-louis-nis-19-septembar-2025/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://new.gigstix.com/event/obscura-beograd-26-septe
+ mbar-2025/
+DTEND:20250926T130000
+DTSTAMP:20250609T132253Z
+DTSTART:20250926T120000
+LOCATION:new.gigstix.com
+ORGANIZER:mailto:new.gigstix.com
+SEQUENCE:0
+SUMMARY:Obscura
+UID:https://new.gigstix.com/event/obscura-beograd-26-septembar-2025/
+URL:https://new.gigstix.com/event/obscura-beograd-26-septembar-2025/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://new.gigstix.com/event/atomsko-skloniste-novi-s
+ ad-11-oktobar-2025/
+DTEND:20251011T130000
+DTSTAMP:20250609T132253Z
+DTSTART:20251011T120000
+LOCATION:new.gigstix.com
+ORGANIZER:mailto:new.gigstix.com
+SEQUENCE:0
+SUMMARY:Atomsko sklonište
+UID:https://new.gigstix.com/event/atomsko-skloniste-novi-sad-11-oktobar-20
+ 25/
+URL:https://new.gigstix.com/event/atomsko-skloniste-novi-sad-11-oktobar-20
+ 25/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://new.gigstix.com/event/naxatras-beograd-24-okto
+ bar-2025/
+DTEND:20251024T130000
+DTSTAMP:20250609T132253Z
+DTSTART:20251024T120000
+LOCATION:new.gigstix.com
+ORGANIZER:mailto:new.gigstix.com
+SEQUENCE:0
+SUMMARY:Naxatras
+UID:https://new.gigstix.com/event/naxatras-beograd-24-oktobar-2025/
+URL:https://new.gigstix.com/event/naxatras-beograd-24-oktobar-2025/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://new.gigstix.com/event/naxatras-nis-25-oktobar-
+ 2025/
+DTEND:20251025T130000
+DTSTAMP:20250609T132253Z
+DTSTART:20251025T120000
+LOCATION:new.gigstix.com
+ORGANIZER:mailto:new.gigstix.com
+SEQUENCE:0
+SUMMARY:Naxatras
+UID:https://new.gigstix.com/event/naxatras-nis-25-oktobar-2025/
+URL:https://new.gigstix.com/event/naxatras-nis-25-oktobar-2025/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://new.gigstix.com/event/dub-pistols-beograd-14-n
+ ovembar-2025/
+DTEND:20251114T130000
+DTSTAMP:20250609T132253Z
+DTSTART:20251114T120000
+LOCATION:new.gigstix.com
+ORGANIZER:mailto:new.gigstix.com
+SEQUENCE:0
+SUMMARY:Dub pistols
+UID:https://new.gigstix.com/event/dub-pistols-beograd-14-novembar-2025/
+URL:https://new.gigstix.com/event/dub-pistols-beograd-14-novembar-2025/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MTBot - https://new.gigstix.com/event/sasa-matic-novi-sad-15-n
+ ovembar-2025/
+DTEND:20251115T130000
+DTSTAMP:20250609T132253Z
+DTSTART:20251115T120000
+LOCATION:new.gigstix.com
+ORGANIZER:mailto:new.gigstix.com
+SEQUENCE:0
+SUMMARY:Saša Matić
+UID:https://new.gigstix.com/event/sasa-matic-novi-sad-15-novembar-2025/
+URL:https://new.gigstix.com/event/sasa-matic-novi-sad-15-novembar-2025/
+END:VEVENT
 END:VCALENDAR
